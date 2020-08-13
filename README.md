@@ -1,5 +1,5 @@
 
-# PHP-MySQL-Interview-Questions
+# PHP-Interview-Questions
 
 > Click :star: if you like the project. Pull Request are highly appreciated.
 
