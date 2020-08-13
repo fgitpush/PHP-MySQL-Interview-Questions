@@ -7,34 +7,38 @@
 
 | No. | Questions |
 | --- | --------- |
-|1  | [What is Routing?](#what-is-routing) |
-|2  | [How many types of routes are there?](#how-many-types-of-routes-are-there) |
-|3  | [What is web php?](#what-is-web-php) |
-|4  | [What is api php?](#what-is-api-php) |
-|5  | [What is channels php?](#what-is-channels-php) |
-|6  | [What is console-php?](#what-is-console-php) |
-|7  | [What is Controller?](#what-is-controller) |
-|8  | [What are Views?](#what-are-views) |
-|9  | [What is a Model?](#what-is-a-model) |
-|10  | [What is Request-Response?](#what-is-request-response) |
-|11  | [When are Migrations?](#what-are-migrations) |
-|12  | [What are Seeders?](#what-are-seeders) |
-|13  | [What are Service Providers?](#what-are-service-providers) |
-|14  | [What is Middleware?](#what-is-middleware) |
-|15 | [What is ORM?](#what-is-orm) |
-|16 | [What is Eloquent?](#what-is-eloquent) |
-|17 | [What is Query Builder?](#what-is-query-builder)
-|18 | [What are Facades?](#what-are-facades) |
-|19 | [What is Repository Pattern?](#what-is-repository-pattern) |
-|20 | [What is Authentication using Passport CSRF XSRF?](#What-is-Authentication-using-Passport-CSRF-XSRF) |
-|21 | [What is Unit testing?](#what-is-unit-testing) |
-|22 | [What is Caching?](#what-is-caching) |
-|23 | [How to setup Emails?](#how-to-setup-emails) |
-|24 | [What are Queues?](#what-are-queues) |
-|25 | [What are Jobs?](#what-are-jobs)
-|26 | [What are Advanced Eloquent and Query Builder?](#what-are-advanced-eloquent-and-query-builder) |
-|27 | [Which is Error management?](#which-is-error-management) |
-|28 | [How to create an API?](#how-to-create-an-api) |
+|1  | [What are the pros of using Laravel?](#why-laravel) |
+|2  | [What is inheritance in PHP?](#php-inheritance) |
+|3  | [What is dependency manager?](#what-is-dependency-manager) |
+|4  | [you have an array of colors('red', 'blue', 'green' ,..., n) and an array of data with x elements where x > n. Print the data array in such a manner that each row would have alternating color and when the color index ends, start from the first color again until the data arrays iterations end.](#what-is-api-php) |
+|5  | [What is Method Overriding?](#what-is-channels-php) |
+|6  | [What is overloading?](#what-is-console-php) |
+|7  | [What are Abstract classes?](#what-is-controller) |
+|8  | [What are Interfaces?](#what-are-views) |
+|9  | [What are access modifiers?](#what-is-a-model) |
+|10  | [What is OOP parent child relationship?](#what-is-request-response) |
+|11  | [When are Magic methods?](#what-are-migrations) |
+|12  | [What are traits?](#what-are-seeders) |
+|13  | [What are php globals?](#what-are-service-providers) |
+|14  | [Talk about REST](#what-is-middleware) |
+|15 | [How will you increase security in a Contact form using PHP](#what-is-orm) |
+|16 | [Send a mail with attachment using phpmailer](#what-is-eloquent) |
+|17 | [Did you worked on payment gateway ?](#what-is-query-builder)
+|18 | [HTTP methods in PHP](#what-are-facades) |
+|19 | [Reverse a string](#what-is-repository-pattern) |
+|20 | [Ascending sort an array](#What-is-Authentication-using-Passport-CSRF-XSRF) |
+|21 | [ Binary Search](#what-is-unit-testing) |
+|22 | [How can we access the data sent through the URL with the GET method?](#what-is-caching) |
+|23 | [Write array element count without using count variable.](#how-to-setup-emails) |
+|24 | [string reverce without using php functions
+
+](#what-are-queues) |
+|25 | [What is NULL
+
+](#what-are-jobs)
+|26 | [Swap two integers without using a third variable](#what-are-advanced-eloquent-and-query-builder) |
+|27 | [difference between include and require functions.->in case of their failure](#which-is-error-management) |
+|28 | [how to reverse the position of words in the string](#how-to-create-an-api) |
 |29 | [What are Events?](#what-are-events) |
 |30 | [What are Listeners?](#what-are-listeners) |
 |31 | [What are Payments and cashier?](#what-are-payments-and-cashier) |
