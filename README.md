@@ -30,17 +30,13 @@
 |21 | [ Binary Search](#what-is-unit-testing) |
 |22 | [How can we access the data sent through the URL with the GET method?](#what-is-caching) |
 |23 | [Write array element count without using count variable.](#how-to-setup-emails) |
-|24 | [string reverce without using php functions
-
-](#what-are-queues) |
-|25 | [What is NULL
-
-](#what-are-jobs)
-|26 | [Swap two integers without using a third variable](#what-are-advanced-eloquent-and-query-builder) |
-|27 | [difference between include and require functions.->in case of their failure](#which-is-error-management) |
-|28 | [how to reverse the position of words in the string](#how-to-create-an-api) |
-|29 | [What are Events?](#what-are-events) |
-|30 | [What are Listeners?](#what-are-listeners) |
+|24 | [string reverce without using php functions](#what-are-queues) |
+|25 | [What is NULL](#what-are-jobs)
+|26 | [Draw a Pyramid](#what-are-advanced-eloquent-and-query-builder) |
+|27 | [one ring bells at 20 sec, second will 40 sec and third will 60.at what time these three will ring together?](#which-is-error-management) |
+|28 | [Get the last thee max salaried person from table via sql](#how-to-create-an-api) |
+|29 | [What is multi-threading?](#what-are-events) |
+|30 | [Does PHP support multithreading?](#what-are-listeners) |
 |31 | [What are Payments and cashier?](#what-are-payments-and-cashier) |
 |32 | [What is Test Driven Development?](#what-is-test-driven-development) |
 |33 | [What is Package development?](#what-is-package-development) |
@@ -502,27 +498,28 @@ When a class inherits another class. It uses extends.
 
    **[⬆ Back to Top](#table-of-contents)**
     
-27. ### What are Advanced Eloquent and Query Builder?
+27. ### one ring bells at 20 sec, second will 40 sec and third will 60.at what time these three will ring together?
 
-    Complex eloquent queries are called advanced eloquent. Query builder is wrapper for database queries.
-
-   **[⬆ Back to Top](#table-of-contents)**
-    
-28. ### Which is Error management?
-
-   Error handling is managing `exception` in a Laravel application.
+    2 minutes.
 
    **[⬆ Back to Top](#table-of-contents)**
     
-29. ### How to create an API?
+28. ### Get the last thee max salaried person from table via sql.?
 
-  Use api.php. Link will be x.com/api/slug
+   
 
    **[⬆ Back to Top](#table-of-contents)**
     
-30. ### What are Events?
+29. ### What is multithreading?
 
-   You get notified when an action is triggered.
+  Parallel executions of more than one threads. A thread is the smallest unit of a task.
+
+   **[⬆ Back to Top](#table-of-contents)**
+    
+30. ### Does PHP support multithreading?
+
+   Yes. Using pthreads.
+   https://stackoverflow.com/questions/70855/how-can-one-use-multi-threading-in-php-applications
 
    **[⬆ Back to Top](#table-of-contents)**
     
