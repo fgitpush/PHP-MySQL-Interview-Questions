@@ -201,28 +201,31 @@
 |193| [Write a program for chessboard?](#How-to-exclude-a-route-with-parameters-from-CSRF-verification) |
 |194| [Preventing XSS attacks](#What-are-policies-classes) |
 |195| [What is web clustering?](#How-to-rollback-last-migration) |
-|196| [difference between primary key and unique key ? Difference between index and primary key](#What-do-you-mean-by-Laravel-Dusk) |
-|197| [Psr standard](#Explain-Laravel-echo) |
+|196| [Difference between primary key and unique key ? ](#What-do-you-mean-by-Laravel-Dusk) |
+|197| [What is Psr standard?](#Explain-Laravel-echo) |
 |198| [Print Floyd's triangle in php.](#What-is-namespace-in-Laravel) |
 |199| [Pass by value functions and call by address](#What-is-Laravel-Forge) |
 |200| [Check duplicates in a array?](#State-the-difference-between-CodeIgniter-and-Laravel) |
 |201| [Check give number is arm strong number or not?](#What-is-an-Observer) |
 |202| [Write a program to find the angle between the hands of a clock](#What-is-the-use-of-the-bootstrap-directory) |
-|203| [prog to find permutation of string](#What-is-the-default-session-timeout-duration) |
+|203| [Program to find permutation of string](#What-is-the-default-session-timeout-duration) |
 |204| [Is there any difference between mysql_connect() and mysql_pconnect() ?](#Explain-API.PHP-route) |
-|205| [Triggers ,, ](#Define-hashing-in-Laravel) |
-|206| [What is Stored Procedures?](#What-is-Localization) |
-|207| [Explain Events.](#Explain-the-concept-of-encryption-and-decryption-in-Laravel) |
-|208| [Self join query](#How-to-share-data-with-views) |
-|209| [different between having and where in SQL query](#How-to-generate-a-request-in-Laravel) |
+|205| [Explain Triggers](#Define-hashing-in-Laravel) |
+|206| [What are Stored Procedures?](#What-is-Localization) |
+|207| [Explain Events](#Explain-the-concept-of-encryption-and-decryption-in-Laravel) |
+|208| [Write self join query](#How-to-share-data-with-views) |
+|209| [Different between having and where in SQL query](#How-to-generate-a-request-in-Laravel) |
 |210| [What is PDO?](#I-just-have-installed-a-fresh-version-of-Laravel-5-and-I-have-the-white-screen-of-death-What’s-wrong) |
-|211| [4: Union VS union ALL and can we use group by in unions?](#How-to-assign-a-variable-value-for-all-view-file) |
+|211| [Union VS union ALL and can we use group by in unions?](#How-to-assign-a-variable-value-for-all-view-file) |
 |212| [What is the difference between left joint and right joint?](#How-to-make-a-constant-and-use-globally) |
-|213| [1.What is the difference between == and ===?](#How-to-check-current-installed-version-of-Laravel) |
-|214| [how mongodb is better than relational databases?](#What-does-composer-dump-autoload-do) |
+|213| [What is the difference between == and === ?](#How-to-check-current-installed-version-of-Laravel) |
+|214| [How mongodb is better than relational databases?](#What-does-composer-dump-autoload-do) |
 |215| [Difference between constructor or distructor in php?](#What-is-Kept-in-vendor-directory-of-Laravel) |
-|216| [Revert a linked list using recursion.](#What-does-PHP-compact-function-do) |
+|216| [Revert a linked list using recursion](#What-does-PHP-compact-function-do) |
 |217| [What is the use of count() function in PHP](#What-is-APP_KEY-used-for) |
+
+
+
 
  
 1. ### What are the pros of using Laravel?
