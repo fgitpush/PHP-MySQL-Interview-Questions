@@ -181,40 +181,40 @@
 |173| [What is queue?](#How-to-use-skip()-and-take()-in-Laravel-Query) |
 |174| [What is Linkedlist?](#What-is-tinker-in-laravel) |
 |175| [how to declare an array? ](#What-is-a-REPL) |
-|176| [How to use multiple 'OR' condition in Laravel Query?](#How-to-use-multiple-'OR'-condition-in-Laravel-Query) |
-|177| [Please write some additional where Clauses in Laravel?](#Please-write-some-additional-where-Clauses-in-Laravel) |
-|178| [How to check column is exists or not in a table using Laravel?](#How-to-check-column-is-exists-or-not-in-a-tabl-using-Laravel) |
-|179| [What is eager loading in Laravel?](#What-is-eager-loading-in-Laravel) |
-|180| [How to generate application key in laravel?](#How-to-generate-application-key-in-laravel) |
-|181| [What is LTS version of Laravel?](#What-is-LTS-version-of-Laravel) |
-|182| [How to use GROUP_CONCAT() with JOIN in Laravel?](#How-to-use-GROUP_CONCAT()-with-JOIN-in-Laravel) |
-|183| [How to extend login expire time in Auth?](#How-to-extend-login-expire-time-in-Auth) |
-|184| [How to extend a layout file in laravel view?](#How-to-extend-a-layout-file-in-laravel-view) |
-|185| [How do you use yield()?](#How-do-you-use-yield()) |
-|186| [How to redirect form controller to view file in laravel?](#How-to-redirect-form-controller-to-view-file-in-laravel) |
-|187| [How to get current route name?](#How-to-get-current-route-name) |
-|188| [What is ACL in laravel?](#What-is-ACL-in-laravel) |
-|189| [How to check Ajax request in Laravel?](#How-to-check-Ajax-request-in-Laravel) |
-|190| [How to check if value is sent in request?](#How-to-check-if-value-is-sent-in-request) |
-|191| [Laravel String Helper functions?](#Laravel-String-Helper-functions) |
-|192| [Laravel Array Helper functions?](#Laravel-Array-Helper-functions) |
-|193| [How to exclude a route with parameters from CSRF verification?](#How-to-exclude-a-route-with-parameters-from-CSRF-verification) |
-|194| [What are policies classes?](#What-are-policies-classes) |
-|195| [How to rollback last migration?](#How-to-rollback-last-migration) |
-|196| [What do you mean by Laravel Dusk?](#What-do-you-mean-by-Laravel-Dusk) |
-|197| [Explain Laravel echo](#Explain-Laravel-echo) |
-|198| [What is namespace in Laravel?](#What-is-namespace-in-Laravel) |
-|199| [What is Laravel Forge?](#What-is-Laravel-Forge) |
-|200| [State the difference between CodeIgniter and Laravel.](#State-the-difference-between-CodeIgniter-and-Laravel) |
-|201| [What is an Observer?](#What-is-an-Observer) |
-|202| [What is the use of the bootstrap directory?](#What-is-the-use-of-the-bootstrap-directory) |
-|203| [What is the default session timeout duration?](#What-is-the-default-session-timeout-duration) |
-|204| [Explain API.PHP route](#Explain-API.PHP-route) |
-|205| [Define hashing in Laravel](#Define-hashing-in-Laravel) |
-|206| [What is Localization?](#What-is-Localization) |
-|207| [Explain the concept of encryption and decryption in Laravel.](#Explain-the-concept-of-encryption-and-decryption-in-Laravel) |
-|208| [How to share data with views?](#How-to-share-data-with-views) |
-|209| [How to generate a request in Laravel?](#How-to-generate-a-request-in-Laravel) |
+|176| [Find the square numbers in the given range (x,y).](#How-to-use-multiple-'OR'-condition-in-Laravel-Query) |
+|177| [What are datatypes in mysql?](#Please-write-some-additional-where-Clauses-in-Laravel) |
+|178| [Write a program to print prime number between 499 and 699](#How-to-check-column-is-exists-or-not-in-a-tabl-using-Laravel) |
+|179| [singleton Class and Trait and show use of Trait by Creating Singleton Class?](#What-is-eager-loading-in-Laravel) |
+|180| [Difference between $var and $$var?](#How-to-generate-application-key-in-laravel) |
+|181| [insert data in three table in a single query](#What-is-LTS-version-of-Laravel) |
+|182| [JWT token?](#How-to-use-GROUP_CONCAT()-with-JOIN-in-Laravel) |
+|183| [Api security](#How-to-extend-login-expire-time-in-Auth) |
+|184| [Find min and max from array of 1 million](#How-to-extend-a-layout-file-in-laravel-view) |
+|185| [write a logic to validate email id using javascript?](#How-do-you-use-yield()) |
+|186| [What is searialization?](#How-to-redirect-form-controller-to-view-file-in-laravel) |
+|187| [u have 2 php pages. (lib.php and welcome.php) u have to use a variable (say x) from lib.php in welcome.php. if u change the x in welcome.php it shouldnt affect the value in lib.php?](#How-to-get-current-route-name) |
+|188| [Use of CORS in api development?](#What-is-ACL-in-laravel) |
+|189| [How to concatenate two variables in PHP?](#How-to-check-Ajax-request-in-Laravel) |
+|190| [Program for Anagram?](#How-to-check-if-value-is-sent-in-request) |
+|191| [What is composer?](#Laravel-String-Helper-functions) |
+|192| [What does var_dump() function does in PHP?](#Laravel-Array-Helper-functions) |
+|193| [Write a program for chessboard?](#How-to-exclude-a-route-with-parameters-from-CSRF-verification) |
+|194| [Preventing XSS attacks](#What-are-policies-classes) |
+|195| [What is web clustering?](#How-to-rollback-last-migration) |
+|196| [difference between primary key and unique key ? Difference between index and primary key](#What-do-you-mean-by-Laravel-Dusk) |
+|197| [Psr standard](#Explain-Laravel-echo) |
+|198| [Print Floyd's triangle in php.](#What-is-namespace-in-Laravel) |
+|199| [Pass by value functions and call by address](#What-is-Laravel-Forge) |
+|200| [Check duplicates in a array?](#State-the-difference-between-CodeIgniter-and-Laravel) |
+|201| [Check give number is arm strong number or not?](#What-is-an-Observer) |
+|202| [Write a program to find the angle between the hands of a clock](#What-is-the-use-of-the-bootstrap-directory) |
+|203| [prog to find permutation of string](#What-is-the-default-session-timeout-duration) |
+|204| [Is there any difference between mysql_connect() and mysql_pconnect() ?](#Explain-API.PHP-route) |
+|205| [Triggers ,, ](#Define-hashing-in-Laravel) |
+|206| [What is Stored Procedures?](#What-is-Localization) |
+|207| [Explain Events.](#Explain-the-concept-of-encryption-and-decryption-in-Laravel) |
+|208| [Self join query](#How-to-share-data-with-views) |
+|209| [Differen](#How-to-generate-a-request-in-Laravel) |
 |210| [I just have installed a fresh version of Laravel 5, and I have the white screen of death. What’s wrong?](#I-just-have-installed-a-fresh-version-of-Laravel-5-and-I-have-the-white-screen-of-death-What’s-wrong) |
 |211| [How to assign a variable value for all view file?](#How-to-assign-a-variable-value-for-all-view-file) |
 |212| [How to make a constant and use globally?](#How-to-make-a-constant-and-use-globally) |
