@@ -214,15 +214,20 @@
 |206| [What is Stored Procedures?](#What-is-Localization) |
 |207| [Explain Events.](#Explain-the-concept-of-encryption-and-decryption-in-Laravel) |
 |208| [Self join query](#How-to-share-data-with-views) |
-|209| [Differen](#How-to-generate-a-request-in-Laravel) |
-|210| [I just have installed a fresh version of Laravel 5, and I have the white screen of death. What’s wrong?](#I-just-have-installed-a-fresh-version-of-Laravel-5-and-I-have-the-white-screen-of-death-What’s-wrong) |
-|211| [How to assign a variable value for all view file?](#How-to-assign-a-variable-value-for-all-view-file) |
-|212| [How to make a constant and use globally?](#How-to-make-a-constant-and-use-globally) |
-|213| [How to check current installed version of Laravel?](#How-to-check-current-installed-version-of-Laravel) |
-|214| [What does "composer dump-autoload" do?](#What-does-composer-dump-autoload-do) |
-|215| [What is Kept in vendor directory of Laravel?](#What-is-Kept-in-vendor-directory-of-Laravel) |
-|216| [What does PHP compact function do?](#What-does-PHP-compact-function-do) |
-|217| [What is APP_KEY used for?](#What-is-APP_KEY-used-for) |
+|209| [different between having and where in SQL query](#How-to-generate-a-request-in-Laravel) |
+|210| [What is PDO?](#I-just-have-installed-a-fresh-version-of-Laravel-5-and-I-have-the-white-screen-of-death-What’s-wrong) |
+|211| [4: Union VS union ALL and can we use group by in unions?](#How-to-assign-a-variable-value-for-all-view-file) |
+|212| [What is the difference between left joint and right joint?](#How-to-make-a-constant-and-use-globally) |
+|213| [1.What is the difference between == and ===?](#How-to-check-current-installed-version-of-Laravel) |
+|214| [how mongodb is better than relational databases?](#What-does-composer-dump-autoload-do) |
+|215| [Difference between constructor or distructor in php?](#What-is-Kept-in-vendor-directory-of-Laravel) |
+|216| [Revert a linked list using recursion.](#What-does-PHP-compact-function-do) |
+|217| [What is the use of count() function in PHP](#What-is-APP_KEY-used-for) |
+
+
+
+
+
 |218| [What are Laravel facades?](#What-are-Laravel-facades) |
 |219| [What directories that need to be writable laravel installation?](#What-directories-that-need-to-be-writable-laravel-installation?) |
 |220| [How to check current Laravel version using CLI?](#How-to-check-current-Laravel-version-using-CLI) |
