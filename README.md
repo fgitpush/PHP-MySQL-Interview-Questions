@@ -375,46 +375,40 @@ When a class inherits another class. It uses extends.
 
    **[⬆ Back to Top](#table-of-contents)**
     
-9. ### 	What is a Model?
-    A model is where you write the database logic. Stored in `/app`
-
-    <?php
-
-    namespace App;
-
-    use Illuminate\Database\Eloquent\Model;
-
-    class Flight extends Model
-    {
-        //
-    }
+9. ### 	What are Interfaces?
+    A class with only function declaration and not definition.
+    
+    The difference between Abstract class and interface? Abstract class may have definition that child classes can change but interface is always only declaration and no definition.
+    
 
    **[⬆ Back to Top](#table-of-contents)**
     
-10. ### What is Request-Response?
+10. ### What are access modifiers?
 
-    When we type a URL, a request is sent to the server. The server goes from /public to bootstrap folder from which is goes to the routes file. The route files sends it the right controller/view.
+    There are three access modifiers:
+
+public - the property or method can be accessed from everywhere. This is default
+protected - the property or method can be accessed within the class and by classes derived from that class
+private - the property or method can ONLY be accessed within the class
 
 
    **[⬆ Back to Top](#table-of-contents)**
     
-11. ### What are Migrations?
+11. ### What is OOP parent child relationship?
 
-    Migrations help us keep SQL tables in code. When we have to setup the DB, we just run the migration.
 
 
    **[⬆ Back to Top](#table-of-contents)**
     
-12. ### What are Service Providers?
+12. ### When are Magic methods?
 
-    Service providers are responsible for booting and configuration (binding all resources.)
+    Predefined methods which start with double underscores i.e __function_name().
     
    **[⬆ Back to Top](#table-of-contents)**
     
-13. ### What is Middleware?
+13. ### What are traits?
 
-    Middleware acts as a bridge between a request and a response. It is a type of filtering mechanism.
-
+   To solve the problem of multiple inheritance i.e one class inheriting from two classes, we use traits which provides us similar functionality.
 
    **[⬆ Back to Top](#table-of-contents)**
     
