@@ -434,9 +434,10 @@ When a class inherits another class. It uses extends.
 
    **[⬆ Back to Top](#table-of-contents)**
     
-16. ### What is Query Builder?
+16. ### How will you increase security in a Contact form using PHP?
 
-   A database wrapper that makes it easy to access DB.
+   A. USE CSRF, JWT token.
+   B. Check the input for SQL injections before inserting the data into database.
 
    **[⬆ Back to Top](#table-of-contents)**
     
