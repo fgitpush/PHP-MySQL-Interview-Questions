@@ -291,18 +291,10 @@ When a class inherits another class. It uses extends.
  ```
   **[⬆ Back to Top](#table-of-contents)**
     
-3. ### What is web php?
+3. ### What is dependency manager?
 
-    web.php used for web routes. Like example.com/test
-    
-    ```
-    Route::get('/test', function () {
-        $path = storage_path() . "/app/json/options/docs.json";
-        return view('skin/dev-wireframe', array('menu' => json_decode(file_get_contents($path), true)));
-    });
-    ```
-    
-    
+   It is a package manager which manages 3rd party libraries for us.
+   
   **[⬆ Back to Top](#table-of-contents)**
     
 4. ### What is api php?
