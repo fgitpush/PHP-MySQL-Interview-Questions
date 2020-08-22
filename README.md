@@ -37,54 +37,54 @@
 |28 | [Get the last thee max salaried person from table via sql](#how-to-create-an-api) |
 |29 | [What is multi-threading?](#what-are-events) |
 |30 | [Does PHP support multithreading?](#what-are-listeners) |
-|31 | [What are Payments and cashier?](#what-are-payments-and-cashier) |
-|32 | [What is Test Driven Development?](#what-is-test-driven-development) |
-|33 | [What is Package development?](#what-is-package-development) |
-|34 | [What are Laravel Scout search and Algolia?](#what-are-laravel-scout-search-and-algolia) |
-|35 | [What is Socialite and Auth?](#what-is-socialite-auth) |
-|36 | [What is Vue-js?](#what-is-vue-js) |
-|37 | [How to connect Laravel with other SQL databases?](#How-to-connect-Laravel-with-other-SQL-databases) |
-|38 | [How to connect Laravel with non-SQL databases?](#How-to-connect-Laravel-with-non-SQL-databases) |
-|39 | [What is Lumen?](#what-is-lumen) |
-|40 | [What is Redis?](#what-is-redis) |
-|41 | [What is Memcache?](#what-is-memcache) |
-|42 | [What is Horizontal scaling?](#What-is-Horizontal-scaling) |
-|43 | [What is Vertical scaling?](#What-is-Vertical-scaling) |
-|44 | [What is Single Page Application in Laravel?](#What--Single-Page-Application-in-Laravel) |
-|45 | [What are Microservices in Laravel?](#What-are-Microservices-in-Laravel) |
+|31 | [Write the code of upload a file in php?](#what-are-payments-and-cashier) |
+|32 | [ What is difference between echo and print?](#what-is-test-driven-development) |
+|33 | [cut round cake in 8 pieces using 3 straight lines, draw on paper]?](#what-is-package-development) |
+|34 | [What is indexing?](#what-are-laravel-scout-search-and-algolia) |
+|35 | [If you are in the race and you crossed the 2nd person in the race then what is your position?](#what-is-socialite-auth) |
+|36 | [Display sum of 1 to N numbers without loop](#what-is-vue-js) |
+|37 | [Write code to display a square with ' * '](#How-to-connect-Laravel-with-other-SQL-databases) |
+|38 | [Write the joins?](#How-to-connect-Laravel-with-non-SQL-databases) |
+|39 | [Write unions?](#what-is-lumen) |
+|40 | [Fibonacci series?](#what-is-redis) |
+|41 | [How to get the data from more than 3 table without use join ?](#what-is-memcache) |
+|42 | [Group by VS order by main Difference ?](#What-is-Horizontal-scaling) |
+|43 | [Difference between curl and ajax?](#What-is-Vertical-scaling) |
+|44 | [How to do error handling in PHP?](#What--Single-Page-Application-in-Laravel) |
+|45 | [What is PEAR?](#What-are-Microservices-in-Laravel) |
 |46 | [What is CSRF and JWT token?](#what-is-CSRF-and-JWT-token) |
-|47 | [What is Service Oriented Architecture in Laravel?](#what-is-soa) |
+|47 | [How to get the data from more than 3 table without using a join?](#what-is-soa) |
 |48 | [What are Validations and custom validations?](#what-are-validators) |
-|49 | [What is Composer?](#what-is-composer) |
-|50 | [What is Symfony?](#what-is-symfony) |
-|51 | [What is Route caching?](#what-is-route-caching) |
-|52 | [What are Default packages: Cashier,Envoy,Passport,Scout,Socialite,Horizon?](#default-packages) |
-|53 | [What are Named routes?](#what-are-named-routes) |
-|54 | [What is Dependency injection in Laravel?](#what-is-dependency-injection) |
-|55 | [What are Laravel contracts?](#what-are-contracts) |
-|56 | [What is Query log?](#what-is-query-log) |
-|57 | [What are Laravel Traits?](#what-are-laravel-traits) |
-|58 | [What are Bundles in Laravel?](#what-are-Bundles-in-Laravel) |
-|59 | [What are System requirements for Laravel?](#what-are-system-requirements-for-laravel) |
-|60 | [What are Aggregate methods in query builder?](#what-are-aggregate-methods-in-query-builder) |
-|61 | [What is Singelton design pattern?](#what-is-singelton-design-pattern) |
-|62 | [What is Reverse routing?](#what-is-reverse-routing) | 
-|63 | [What are Popular composer packages?](#what-are-Popular-composer-packages) |
-|64 | [How to get the data from more than 3 table without using a join?](#how-to-get-the-data-from-more-than-3-table-without-using-a-join) |
-|65 | [List some artisan commands](#list-some-artisan-commands) |
-|66 | [What are Sessions?](#what-are-sessions) |
-|67 | [What are Cookies?](#what-are-cookies) |
-|68 | [What is Current version of PHP, MySQL, Laravel, MongoDB etc?](#what-is-current-version-of-PHP-MySQL-Laravel-MongoDB-etc) |
+|49 | [How to fetch last two records from the table?](#what-is-composer) |
+|50 | [print 1 to 100 no divide by 3 and 5](#what-is-symfony) |
+|51 | [who is the father of php?](#what-is-route-caching) |
+|52 | [Explain caching and its ways?](#default-packages) |
+|53 | [How to call CURL?](#what-are-named-routes) |
+|54 | [What are the new trends in PHP](#what-is-dependency-injection) |
+|55 | [Form validation using jquery](#what-are-contracts) |
+|56 | [create a project with CRUD, one algorithm logic and insert data in db for testing?](#what-is-query-log) |
+|57 | [Mysql Engines](#what-are-laravel-traits) |
+|58 | [What is I in mysqli?](#what-are-Bundles-in-Laravel) |
+|59 | [Query to get the 31st highest salary](#what-are-system-requirements-for-laravel) |
+|60 | [How can we style to html document in different ways ?](#what-are-aggregate-methods-in-query-builder) |
+|61 | [What is MVC architecture?](#what-is-singelton-design-pattern) |
+|62 | [Latest version for PHP and Bootstrap? ](#what-is-reverse-routing) | 
+|63 | [Did you worked on payment gateway ?](#what-are-Popular-composer-packages) |
+|64 | [replace the integer value of 2 variables without creating the third?](#how-to-get-the-data-from-more-than-3-table-without-using-a-join) |
+|65 | [Namespaces?](#list-some-artisan-commands) |
+|66 | [Name some array functions](#what-are-sessions) |
+|67 | [What is SQl Injection?](#what-are-cookies) |
+|68 | [](#what-is-current-version-of-PHP-MySQL-Laravel-MongoDB-etc) |
 |69 | [Describe design architecture of an app?](#Describe-design-architecture-of-an-app) |
 |70 | [What are SQL Injections?](#What-are-SQL-Injections) |
-|71 | [How to call static methods?](#How-to-call-static-methods) |
-|72 | [How to achieve multiple DB hosts?](#How-to-achieve-multiple-DB-hosts)
-|73 | [What is Abstract class?](#what-is-Abstract-class) |
-|74 | [What are Default ports for MySQL Email etc?](#what-are-Default-ports-for-MySQL-Email-etc) |
-|75 | [Explain Joins](#Explain-Joins) |
+|71 | [How SQL injection can be prevented?](#How-to-call-static-methods) |
+|72 | [What is DOM?](#How-to-achieve-multiple-DB-hosts)
+|73 | [What is cross site scripting and how it can be prevented?](#what-is-Abstract-class) |
+|74 | [What is Restful Webservice?](#what-are-Default-ports-for-MySQL-Email-etc) |
+|75 | [How delete operation can be performed using Restful webservice?](#Explain-Joins) |
 |76 | [Explain Unions](#Explain-Unions) |
-|77 | [How mongodb is better than relational databases?](#How-mongodb-is-better-than-relational-databases) |
-|78 | [What is  mongodb?](#What-is-mongodb) |
+|77 | [write a program for all the number from 1 to 100 ,all the number that are divisble by 3 print 'FIZZ' ,all those number divisible by 5 print 'BUZZ' for thoose number divisible by both 3 and 5 print 'FIZZBUZZ' for other print the number itself (just find the mod and use if loop)](#How-mongodb-is-better-than-relational-databases) |
+|78 | [Is login works when cookies disabled on browser ?](#What-is-mongodb) |
 |79 | [What is default session time?](#What-is-default-session-time)
 |80 | [How to create hooks in Laravel?](#How-to-create-hooks-in-Laravel) |
 |81 | [What is csrf token and xss attack?](#What-is-csrf-token-and-xss-attack) |
