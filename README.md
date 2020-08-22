@@ -39,7 +39,7 @@
 |30 | [Does PHP support multithreading?](#what-are-listeners) |
 |31 | [Write the code of upload a file in php?](#what-are-payments-and-cashier) |
 |32 | [ What is difference between echo and print?](#what-is-test-driven-development) |
-|33 | [cut round cake in 8 pieces using 3 straight lines, draw on paper]?](#what-is-package-development) |
+|33 | [cut round cake in 8 pieces using 3 straight lines, draw on paper](#what-is-package-development) |
 |34 | [What is indexing?](#what-are-laravel-scout-search-and-algolia) |
 |35 | [If you are in the race and you crossed the 2nd person in the race then what is your position?](#what-is-socialite-auth) |
 |36 | [Display sum of 1 to N numbers without loop](#what-is-vue-js) |
