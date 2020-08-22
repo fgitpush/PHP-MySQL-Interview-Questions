@@ -84,17 +84,17 @@
 |75 | [How delete operation can be performed using Restful webservice?](#Explain-Joins) |
 |76 | [Explain Unions](#Explain-Unions) |
 |77 | [write a program for all the number from 1 to 100 ,all the number that are divisble by 3 print 'FIZZ' ,all those number divisible by 5 print 'BUZZ' for thoose number divisible by both 3 and 5 print 'FIZZBUZZ' for other print the number itself (just find the mod and use if loop)](#How-mongodb-is-better-than-relational-databases) |
-|78 | [Is login works when cookies disabled on browser ?](#What-is-mongodb) |
-|79 | [What is default session time?](#What-is-default-session-time)
-|80 | [How to create hooks in Laravel?](#How-to-create-hooks-in-Laravel) |
-|81 | [What is csrf token and xss attack?](#What-is-csrf-token-and-xss-attack) |
-|82 | [Select highest and nth highest salary from DB](#Select-highest-and-nth-highest-salary-from-DB) |
+|78 | [sorting of array in ascending order ?](#What-is-mongodb) |
+|79 | [What is the need of interface?](#What-is-default-session-time)
+|80 | [How to add aws plugin in PHP?](#How-to-create-hooks-in-Laravel) |
+|81 | [How to reduce http request on page loading?](#What-is-csrf-token-and-xss-attack) |
+|82 | [constraints and triggers](#Select-highest-and-nth-highest-salary-from-DB) |
 |83 | [Write a join](#Write-a-join) |
 |84 | [Write a union](#Write-a-union) |
-|85 | [Write a complex query?](#Write-a-complex-query) |
-|86 | [Explain an apps DB architecture ?](#Explain-an-apps-DB-architecture) |
-|87 | [What is Difference between PHP 5 and 4?](#What-is-Difference-between-PHP-5-and-4) |
-|88 | [What is the difference among various php versions?](#What-is-the-difference-among-various-php-versions) |
+|85 | [design pattern](#Write-a-complex-query) |
+|86 | [How can we access the data sent through the URL with the GET method ?](#Explain-an-apps-DB-architecture) |
+|87 | [how to find datatype of $i ?](#What-is-Difference-between-PHP-5-and-4) |
+|88 | [what is the session and cookies and difference between in it](#What-is-the-difference-among-various-php-versions) |
 |89 | [What is the difference among various mysql versions?](#What-is-the-difference-among-various-mysql-versions) |
 |90 | [What is the difference among various Laravel versions?](#What-is-the-difference-among-various-Laravel-versions) |
 |91 | [How to add AWS plugin in PHP?](#How-to-add-AWS-plugin-in-PHP) |
