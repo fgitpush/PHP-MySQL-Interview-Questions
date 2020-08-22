@@ -10,18 +10,18 @@
 |1  | [What are the pros of using Laravel?](#why-laravel) |
 |2  | [What is inheritance in PHP?](#php-inheritance) |
 |3  | [What is dependency manager?](#what-is-dependency-manager) |
-|4  | [you have an array of colors('red', 'blue', 'green' ,..., n) and an array of data with x elements where x > n. Print the data array in such a manner that each row would have alternating color and when the color index ends, start from the first color again until the data arrays iterations end.](#what-is-api-php) |
+|4  | [You have an array of colors('red', 'blue', 'green' ,..., n) and an array of data with x elements where x > n. Print the data array in such a manner that each row would have alternating color and when the color index ends, start from the first color again until the data arrays iterations end.](#what-is-api-php) |
 |5  | [What is Method Overriding?](#what-is-channels-php) |
-|6  | [What is overloading?](#what-is-console-php) |
+|6  | [What is Overloading?](#what-is-console-php) |
 |7  | [What are Abstract classes?](#what-is-controller) |
 |8  | [What are Interfaces?](#what-are-views) |
-|9  | [What are access modifiers?](#what-is-a-model) |
+|9  | [What are Access Modifiers?](#what-is-a-model) |
 |10  | [What is OOP parent child relationship?](#what-is-request-response) |
 |11  | [When are Magic methods?](#what-are-migrations) |
 |12  | [What are traits?](#what-are-seeders) |
 |13  | [What are php globals?](#what-are-service-providers) |
-|14  | [Talk about REST](#what-is-middleware) |
-|15 | [How will you increase security in a Contact form using PHP](#what-is-orm) |
+|14  | [What is REST?](#what-is-middleware) |
+|15 | [How will you increase security in a Contact form using PHP?](#what-is-orm) |
 |16 | [Send a mail with attachment using phpmailer](#what-is-eloquent) |
 |17 | [Did you worked on payment gateway ?](#what-is-query-builder)
 |18 | [HTTP methods in PHP](#what-are-facades) |
