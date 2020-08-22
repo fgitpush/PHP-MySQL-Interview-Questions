@@ -387,9 +387,9 @@ When a class inherits another class. It uses extends.
 
     There are three access modifiers:
 
-public - the property or method can be accessed from everywhere. This is default
-protected - the property or method can be accessed within the class and by classes derived from that class
-private - the property or method can ONLY be accessed within the class
+    public - the property or method can be accessed from everywhere. This is default
+    protected - the property or method can be accessed within the class and by classes derived from that class
+    private - the property or method can ONLY be accessed within the class
 
 
    **[⬆ Back to Top](#table-of-contents)**
@@ -428,10 +428,10 @@ private - the property or method can ONLY be accessed within the class
 
    **[⬆ Back to Top](#table-of-contents)**
     
-15. ### What is Eloquent?
+15. ### Talk about REST
 
-    The ORM wrapper Laravel uses is called Eloquent. Every table has a model associated with it.
-    
+  REST is the most widely used API implementation method. Other popular ones include SOAP. Rest uses JSON. Its easy to implement.
+
    **[⬆ Back to Top](#table-of-contents)**
     
 16. ### What is Query Builder?
