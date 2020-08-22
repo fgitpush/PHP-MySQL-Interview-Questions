@@ -412,9 +412,18 @@ private - the property or method can ONLY be accessed within the class
 
    **[⬆ Back to Top](#table-of-contents)**
     
-14. ### What is ORM?
+14. ### What are php globals?
 
-    Object oriented and Model based way of DB query
+    Globals i.e global variables are accessible everywhere. These are,
+    $GLOBALS
+    $_SERVER
+    $_REQUEST
+    $_POST
+    $_GET
+    $_FILES
+    $_ENV
+    $_COOKIE
+    $_SESSION
 
 
    **[⬆ Back to Top](#table-of-contents)**
