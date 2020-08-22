@@ -224,24 +224,6 @@
 |216| [Revert a linked list using recursion.](#What-does-PHP-compact-function-do) |
 |217| [What is the use of count() function in PHP](#What-is-APP_KEY-used-for) |
 
-
-
-
-
-|218| [What are Laravel facades?](#What-are-Laravel-facades) |
-|219| [What directories that need to be writable laravel installation?](#What-directories-that-need-to-be-writable-laravel-installation?) |
-|220| [How to check current Laravel version using CLI?](#How-to-check-current-Laravel-version-using-CLI) |
-|221| [Why prefer Laravel over other frameworks?](#Why-prefer-Laravel-over-other-frameworks) |
-|222| [What are service containers?](#What-are-service-containers) |
-|223| [Write CRUD in Laravel Eloquent?](#Write-CRUD-in-Laravel-Eloquent) |
-|224| [Write CRUD in Laravel Query Builder?](#Write-CRUD-in-Laravel-Query-Builder) |
-|225| [How to install laravel via composer?](#How-to-install-laravel-via-composer) |
-|226| [What are Eloquent collections?](#What-are-Eloquent-collections) |
-|227| [Output a raw query using eloquent/query builder ](#Output-a-raw-query-using-eloquent-or-query-builder) |
-|228| [How to create custom helper functions](#How-to-create-custom-helper-functions) |
-|229| [How to check installed extensions in CLI and web for PHP?](#How-to-check-installed-extensions-in-CLI-and-web-for-PHP) |
-|230| [How to create multiple where clause in eloquent?](#How-to-create-multiple-where-clause-in-eloquent) |
-
  
 1. ### What are the pros of using Laravel?
 
