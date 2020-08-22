@@ -308,7 +308,7 @@ When a class inherits another class. It uses extends.
     ```
      **[⬆ Back to Top](#table-of-contents)**
      
-5. ### What is channels php?
+5. ### What is Method Overriding?
 
     It is used for broadcasting
 
