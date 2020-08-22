@@ -317,6 +317,8 @@ When a class inherits another class. It uses extends.
 6. ### What is overloading?
 
     Inherited class reimplements the function/method.
+    
+    Note: PHP doesn't support overloading.
     ```
     <?php
 
