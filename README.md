@@ -242,17 +242,15 @@
 |230| [How to create multiple where clause in eloquent?](#How-to-create-multiple-where-clause-in-eloquent) |
 
  
-1. ### What is Routing?
+1. ### What are the pros of using Laravel?
 
-  When a user enters a URL, it gets send to a routes folder. For web we usually use web.php and api.php. web.php route is for web requests while api.php route is for API requests.
+ A. Most demanded PHP framework.
+ B. Great documentation.
+ C. MVC based.
+ D. ORM for DB.
+ E. Blade templating engine
 
-Below is an example get route from `routes/web.php`. You can can call website.com/foo and it will bring the result.
 
-  ```
-  Route::get('foo', function () {
-      return 'Hello World';
-  });
-  ```
  **[⬆ Back to Top](#table-of-contents)**
     
 2. ### How many types of routes are there?
