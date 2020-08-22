@@ -343,29 +343,18 @@ When a class inherits another class. It uses extends.
   **[⬆ Back to Top](#table-of-contents)**
    
     
-7. ### What is Controller?
+7. ### What are Abstract classes?
 
-    Controller is the place where we write the logic of the program. Placed in app/Http/Conrollers
+    It has function declarations but not definitions. Child classes implement the classes according to their needs. Created using abstract keyword.
 
     ```
-    <?php namespace App\Http\Controllers;
-
-    use App\Http\Controllers\Controller;
-
-    class UserController extends Controller {
-
-        /**
-         * Show the profile for the given user.
-         *
-         * @param  int  $id
-         * @return Response
-         */
-        public function showProfile($id)
-        {
-            return view('user.profile', ['user' => User::findOrFail($id)]);
-        }
-
-    }
+   <?php
+   abstract class ParentClass {
+     abstract public function someMethod1();
+     abstract public function someMethod2($name, $color);
+     abstract public function someMethod3() : string;
+   }
+   ?>
     ```
 
 
