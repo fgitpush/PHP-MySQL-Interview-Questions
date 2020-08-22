@@ -18,51 +18,51 @@
 |9  | [What are Access Modifiers?](#what-is-a-model) |
 |10  | [What is OOP parent child relationship?](#what-is-request-response) |
 |11  | [When are Magic methods?](#what-are-migrations) |
-|12  | [What are traits?](#what-are-seeders) |
+|12  | [What are Traits?](#what-are-seeders) |
 |13  | [What are php globals?](#what-are-service-providers) |
 |14  | [What is REST?](#what-is-middleware) |
 |15 | [How will you increase security in a Contact form using PHP?](#what-is-orm) |
 |16 | [Send a mail with attachment using phpmailer](#what-is-eloquent) |
-|17 | [Did you worked on payment gateway ?](#what-is-query-builder)
-|18 | [HTTP methods in PHP](#what-are-facades) |
-|19 | [Reverse a string](#what-is-repository-pattern) |
-|20 | [Ascending sort an array](#What-is-Authentication-using-Passport-CSRF-XSRF) |
-|21 | [ Binary Search](#what-is-unit-testing) |
+|17 | [Did you worked on payment gateway?](#what-is-query-builder)
+|18 | [List the HTTP methods in PHP](#what-are-facades) |
+|19 | [Write a function to Reverse a string](#what-is-repository-pattern) |
+|20 | [Write a function to sort an array in ascending order](#What-is-Authentication-using-Passport-CSRF-XSRF) |
+|21 | [What is Binary Search](#what-is-unit-testing) |
 |22 | [How can we access the data sent through the URL with the GET method?](#what-is-caching) |
-|23 | [Write array element count without using count variable.](#how-to-setup-emails) |
-|24 | [string reverce without using php functions](#what-are-queues) |
-|25 | [What is NULL](#what-are-jobs)
+|23 | [Write array element count without using count variable?](#how-to-setup-emails) |
+|24 | [Write a function for string reverse without using php functions](#what-are-queues) |
+|25 | [What is NULL?](#what-are-jobs)
 |26 | [Draw a Pyramid](#what-are-advanced-eloquent-and-query-builder) |
-|27 | [one ring bells at 20 sec, second will 40 sec and third will 60.at what time these three will ring together?](#which-is-error-management) |
+|27 | [One ring bells at 20 sec, second will 40 sec and third will 60.at what time these three will ring together?](#which-is-error-management) |
 |28 | [Get the last thee max salaried person from table via sql](#how-to-create-an-api) |
 |29 | [What is multi-threading?](#what-are-events) |
 |30 | [Does PHP support multithreading?](#what-are-listeners) |
 |31 | [Write the code of upload a file in php?](#what-are-payments-and-cashier) |
-|32 | [ What is difference between echo and print?](#what-is-test-driven-development) |
-|33 | [cut round cake in 8 pieces using 3 straight lines, draw on paper](#what-is-package-development) |
+|32 | [What is difference between echo and print?](#what-is-test-driven-development) |
+|33 | [Cut round cake in 8 pieces using 3 straight lines, draw on paper](#what-is-package-development) |
 |34 | [What is indexing?](#what-are-laravel-scout-search-and-algolia) |
 |35 | [If you are in the race and you crossed the 2nd person in the race then what is your position?](#what-is-socialite-auth) |
 |36 | [Display sum of 1 to N numbers without loop](#what-is-vue-js) |
 |37 | [Write code to display a square with ' * '](#How-to-connect-Laravel-with-other-SQL-databases) |
-|38 | [Write the joins?](#How-to-connect-Laravel-with-non-SQL-databases) |
+|38 | [Write joins?](#How-to-connect-Laravel-with-non-SQL-databases) |
 |39 | [Write unions?](#what-is-lumen) |
-|40 | [Fibonacci series?](#what-is-redis) |
+|40 | [Wrie a function to print Fibonacci series?](#what-is-redis) |
 |41 | [How to get the data from more than 3 table without use join ?](#what-is-memcache) |
-|42 | [Group by VS order by main Difference ?](#What-is-Horizontal-scaling) |
+|42 | [What is the difference between group by and order by?](#What-is-Horizontal-scaling) |
 |43 | [Difference between curl and ajax?](#What-is-Vertical-scaling) |
 |44 | [How to do error handling in PHP?](#What--Single-Page-Application-in-Laravel) |
 |45 | [What is PEAR?](#What-are-Microservices-in-Laravel) |
 |46 | [What is CSRF and JWT token?](#what-is-CSRF-and-JWT-token) |
 |47 | [How to get the data from more than 3 table without using a join?](#what-is-soa) |
-|48 | [What are Validations and custom validations?](#what-are-validators) |
+|48 | [What are validations and custom validations?](#what-are-validators) |
 |49 | [How to fetch last two records from the table?](#what-is-composer) |
-|50 | [print 1 to 100 no divide by 3 and 5](#what-is-symfony) |
-|51 | [who is the father of php?](#what-is-route-caching) |
+|50 | [Print 1 to 100 no divide by 3 and 5](#what-is-symfony) |
+|51 | [Who is the father of php?](#what-is-route-caching) |
 |52 | [Explain caching and its ways?](#default-packages) |
 |53 | [How to call CURL?](#what-are-named-routes) |
 |54 | [What are the new trends in PHP](#what-is-dependency-injection) |
 |55 | [Form validation using jquery](#what-are-contracts) |
-|56 | [create a project with CRUD, one algorithm logic and insert data in db for testing?](#what-is-query-log) |
+|56 | [Create a project with CRUD, one algorithm logic and insert data in db for testing?](#what-is-query-log) |
 |57 | [Mysql Engines](#what-are-laravel-traits) |
 |58 | [What is I in mysqli?](#what-are-Bundles-in-Laravel) |
 |59 | [Query to get the 31st highest salary](#what-are-system-requirements-for-laravel) |
@@ -70,11 +70,11 @@
 |61 | [What is MVC architecture?](#what-is-singelton-design-pattern) |
 |62 | [Latest version for PHP and Bootstrap? ](#what-is-reverse-routing) | 
 |63 | [Did you worked on payment gateway ?](#what-are-Popular-composer-packages) |
-|64 | [replace the integer value of 2 variables without creating the third?](#how-to-get-the-data-from-more-than-3-table-without-using-a-join) |
+|64 | [Replace the integer value of 2 variables without creating the third?](#how-to-get-the-data-from-more-than-3-table-without-using-a-join) |
 |65 | [Namespaces?](#list-some-artisan-commands) |
 |66 | [Name some array functions](#what-are-sessions) |
 |67 | [What is SQl Injection?](#what-are-cookies) |
-|68 | [](#what-is-current-version-of-PHP-MySQL-Laravel-MongoDB-etc) |
+|68 | [aaaaaaaaaaaaaaaaaaa](#what-is-current-version-of-PHP-MySQL-Laravel-MongoDB-etc) |
 |69 | [Describe design architecture of an app?](#Describe-design-architecture-of-an-app) |
 |70 | [What are SQL Injections?](#What-are-SQL-Injections) |
 |71 | [How SQL injection can be prevented?](#How-to-call-static-methods) |
@@ -83,18 +83,18 @@
 |74 | [What is Restful Webservice?](#what-are-Default-ports-for-MySQL-Email-etc) |
 |75 | [How delete operation can be performed using Restful webservice?](#Explain-Joins) |
 |76 | [Explain Unions](#Explain-Unions) |
-|77 | [write a program for all the number from 1 to 100 ,all the number that are divisble by 3 print 'FIZZ' ,all those number divisible by 5 print 'BUZZ' for thoose number divisible by both 3 and 5 print 'FIZZBUZZ' for other print the number itself (just find the mod and use if loop)](#How-mongodb-is-better-than-relational-databases) |
-|78 | [sorting of array in ascending order ?](#What-is-mongodb) |
+|77 | [Write a program for all the number from 1 to 100 ,all the number that are divisble by 3 print 'FIZZ' ,all those number divisible by 5 print 'BUZZ' for thoose number divisible by both 3 and 5 print 'FIZZBUZZ' for other print the number itself (just find the mod and use if loop)](#How-mongodb-is-better-than-relational-databases) |
+|78 | [Sorting of array in ascending order ?](#What-is-mongodb) |
 |79 | [What is the need of interface?](#What-is-default-session-time)
 |80 | [How to add aws plugin in PHP?](#How-to-create-hooks-in-Laravel) |
 |81 | [How to reduce http request on page loading?](#What-is-csrf-token-and-xss-attack) |
-|82 | [constraints and triggers](#Select-highest-and-nth-highest-salary-from-DB) |
+|82 | [Constraints and triggers](#Select-highest-and-nth-highest-salary-from-DB) |
 |83 | [Write a join](#Write-a-join) |
 |84 | [Write a union](#Write-a-union) |
-|85 | [design pattern](#Write-a-complex-query) |
+|85 | [Design pattern](#Write-a-complex-query) |
 |86 | [How can we access the data sent through the URL with the GET method ?](#Explain-an-apps-DB-architecture) |
-|87 | [how to find datatype of $i ?](#What-is-Difference-between-PHP-5-and-4) |
-|88 | [what is the session and cookies and difference between in it](#What-is-the-difference-among-various-php-versions) |
+|87 | [How to find datatype of $i ?](#What-is-Difference-between-PHP-5-and-4) |
+|88 | [What is the session and cookies and difference between in it](#What-is-the-difference-among-various-php-versions) |
 |89 | [What is the difference among various mysql versions?](#What-is-the-difference-among-various-mysql-versions) |
 |90 | [What is the difference among various Laravel versions?](#What-is-the-difference-among-various-Laravel-versions) |
 |91 | [How to add AWS plugin in PHP?](#How-to-add-AWS-plugin-in-PHP) |
@@ -104,7 +104,7 @@
 |95 | [Write array element count without using count variable.](#Explain-4-basics-of-OOP) |
 |96 | [Difference between mysiam and innodb storage engine](#What-is-diference-between-abstract-class-and-interface) |
 |97 | [HTTP methods in PHP](#What-is-MVC-Framework) |
-|98 | [string reverce without using php functions](#Write-CRUD-in-Laravel-Eloquent) |
+|98 | [String reverce without using php functions](#Write-CRUD-in-Laravel-Eloquent) |
 |99 | [Zend Framework](#Explain-CURL-and-SOAP) |
 |100 | [How to declare an array in php?](#In-MySql-we-use-many-types-of-engines-which-one-is-faster-and-why) |
 |101 | [What are the encryption techniques in PHP?](#What-are-Triggers) |
@@ -119,12 +119,12 @@
 |110| [Explain require and require once difference](#Explain-require-and-require-once-difference) |
 |111| [Explain include and require diffrence](#Explain-include-and-require-diffrence) |
 |112| [What kind of Debugger you are familiar with ?](#Directory-structure-of-Laravel) |
-|113| [how to sort arrays in descending order?](#How-to-install-Laravel-via-composer) |
-|114| [what is the default SSL port?](#Which-ORM-are-being-used-by-laravel) |
+|113| [How to sort arrays in descending order?](#How-to-install-Laravel-via-composer) |
+|114| [What is the default SSL port?](#Which-ORM-are-being-used-by-laravel) |
 |115| [There is an array with some elements and find out second max element of an array without using any built in function?](#List-types-of-relationships-available-in-Laravel-Eloquent) |
 |116| [How you can assign the value to a HTML input element using jquery?](#How-to-enable-maintenance-mode-in-Laravel) |
-|117| [ How you can read a HTML element value using j query?](#What-is-the-purpose-of-using-dd()-function-in-laravel) |
-|118| [ways to print an array?](#How-do-you-register-a-Service-Provider) |
+|117| [How you can read a HTML element value using j query?](#What-is-the-purpose-of-using-dd()-function-in-laravel) |
+|118| [Ways to print an array?](#How-do-you-register-a-Service-Provider) |
 |119| [What is recursion?](#Explain-Laravel-framework-Architecture) |
 |120| [How many types of CSS inclusion methods?](#Helper-Functions) |
 |121| [Remove Duplicates rows from table](#What-is-Fillable-Attribute-in-a-Laravel-Model) |
@@ -135,32 +135,32 @@
 |126| [How to Remove data from a session?](#What-is-Laravel-Mix) |
 |127| [Have you ever handle one million user inputs in a second ?](#How-can-you-display-HTML-with-Blade-in-Laravel) |
 |128| [Write down syntax for ajax call ?](#List-out-databases-that-laravel-supports) |
-|129| [find a string character count without using string functions ?](#How-to-use-custom-table-in-Laravel-Model) |
+|129| [Find a string character count without using string functions ?](#How-to-use-custom-table-in-Laravel-Model) |
 |130| [Run time and compile time polymorphism](#How-To-Use-Select-Query-In-Laravel-Eloquent-and-QB) |
-|131| [how to reverse the position of words in the string](#What-are-Accessors-and-Mutators-in-Eloquent-and-why-should-you-use-them) |
-|132| [will session variables work if I disable cookies?](#How-do-I-log-an-error) |
+|131| [How to reverse the position of words in the string](#What-are-Accessors-and-Mutators-in-Eloquent-and-why-should-you-use-them) |
+|132| [Will session variables work if I disable cookies?](#How-do-I-log-an-error) |
 |133| [How to optimize database?](#What-is-Monolog-library-in-Laravel) |
 |134| [There is array of 1 million integers (numbers can be repeatative). find smallest and largest number.](#Exceptions-are-handled-by-which-class-in-Laravel) |
 |135| [Solve the rubiks cube](#What-is-Serialization-in-Laravel) |
 |136| [What are different types of errors in PHP](#What-is-Response-in-Laravel) |
 |137| [How to delete a specific element in an array?](#What-is-Response-Macros-in-Laravel) |
-|138| [how to get the record with maximum mark of a student from a table ?](#What-is-Rate-Limiting-OR-Throttle-in-Laravel) |
+|138| [How to get the record with maximum mark of a student from a table ?](#What-is-Rate-Limiting-OR-Throttle-in-Laravel) |
 |139| [Find names of students whose age is greater than 21?](#What-is-Lazy-vs-Eager-Loading-in-Laravel) |
-|140| [Redis?](#How-to-get-current-environment-in-Laravel) |
-|141| [memcache?](#How-to-use-custom-table-in-Laravel-Model) |
-|142| [Ubuntu?](#What-is-Binding) |
+|140| [What is Redis?](#How-to-get-current-environment-in-Laravel) |
+|141| [What is Memcache?](#How-to-use-custom-table-in-Laravel-Model) |
+|142| [Do you know how to write commands in Linux/Ubuntu?](#What-is-Binding) |
 |143| [How to create an API?](#Explain-Binding-A-Singleton) |
 |144| [what is default session time](#Explain-Binding-Instances) |
 |145| [Do JS validation?](#Explain-Binding-Primitives) |
-|146| [associate array?](#Explain-Contextual-Binding-and-how-does-it-work) |
+|146| [What is an Associate array?](#Explain-Contextual-Binding-and-how-does-it-work) |
 |147| [How will you generate random numbers using PHP?](#What-is-Tagging) |
-|148| [array merge and array combine?](#Explain-Extending-Bindings) |
+|148| [Difference between array merge and array combine?](#Explain-Extending-Bindings) |
 |149| [Finding 5th child in jQuery](#What-is-the-make-Method) |
 |150| [Compiletime and runtime polymorphism and what is virtual function?](#How-to-clear-cache-in-Laravel) |
-|151| [update and insert in sql?](#What-is-CSRF-token) |
-|153| [sql basics?](#How-will-you-explain-homestead-in-Laravel) |
-|154| [find if pair exist in array whose sum is k?](#How-can-we-get-the-user's-IP-address-in-Laravel) |
-|155| [-check if string is palindrome?](#How-will-you-create-a-helper-file-in-Laravel) |
+|151| [Update and insert in sql?](#What-is-CSRF-token) |
+|153| [Write basic sql queries](#How-will-you-explain-homestead-in-Laravel) |
+|154| [Find if pair exist in array whose sum is k?](#How-can-we-get-the-user's-IP-address-in-Laravel) |
+|155| [Check if string is palindrome?](#How-will-you-create-a-helper-file-in-Laravel) |
 |156| [What is 2 tier and 3 tier architecture?](#How-can-we-create-a-record-in-Laravel-using-eloquent) |
 |157| [How can we get the user's IP address in PHP?](#give-a-simple-example-of-jest-test-case) |
 |158| [Why should we use RDBMS or whaat was challanges with traditional file systems?](#What-is-faker-in-Laravel) |
@@ -168,31 +168,31 @@
 |160| [Preg_replace?](#What-are-the-difference-between-insert-and-insertGetId-in-laravel) |
 |161| [REST VS AJAX](#Talk-about-Laravel-Vapor-Compatibility) |
 |162| [REST VS SOAP](#What-is-Semantic-Versioning) |
-|163| [sort a array with predefined function](#What-are-Jobs-and-Middleware) |
+|163| [Sort a array with predefined function](#What-are-Jobs-and-Middleware) |
 |164| [Create a class and call add and subtract function](#talk-about-Laravel-User-Interface-(UI)) |
-|165| [why this error occur header already sent](#Talk-about-Eloquent-Subquery-Enhancements) |
-|166| [difference between put and post?](#What-are-improved-Authorization-Responses) |
-|167| [FINAL CLASS?](#What-are-lazy-collections) |
-|168| [ how to implement Security in app?](#How-to-make-a-constant-and-use-globally) |
-|169| [ what is layers in mysql?](#How-to-remove-public-from-URL-in-laravel) |
-|170| [master slave in db?](#What-are-the-difference-between-soft-delete-&-delete-in-Laravel) |
-|171| [server commands?](#How-we-can-upload-files-in-laravel) |
+|165| [Why this error occur header already sent](#Talk-about-Eloquent-Subquery-Enhancements) |
+|166| [Difference between put and post?](#What-are-improved-Authorization-Responses) |
+|167| [What is final class?](#What-are-lazy-collections) |
+|168| [How to implement Security in app?](#How-to-make-a-constant-and-use-globally) |
+|169| [What is layers in mysql?](#How-to-remove-public-from-URL-in-laravel) |
+|170| [What is master and slave in db?](#What-are-the-difference-between-soft-delete-&-delete-in-Laravel) |
+|171| [Do you know how to write server commands?](#How-we-can-upload-files-in-laravel) |
 |172| [What is stack?](#How-to-create-real-time-sitemap.xml-file-in-Laravel) |
 |173| [What is queue?](#How-to-use-skip()-and-take()-in-Laravel-Query) |
 |174| [What is Linkedlist?](#What-is-tinker-in-laravel) |
-|175| [how to declare an array? ](#What-is-a-REPL) |
+|175| [How to declare an array? ](#What-is-a-REPL) |
 |176| [Find the square numbers in the given range (x,y).](#How-to-use-multiple-'OR'-condition-in-Laravel-Query) |
 |177| [What are datatypes in mysql?](#Please-write-some-additional-where-Clauses-in-Laravel) |
 |178| [Write a program to print prime number between 499 and 699](#How-to-check-column-is-exists-or-not-in-a-tabl-using-Laravel) |
-|179| [singleton Class and Trait and show use of Trait by Creating Singleton Class?](#What-is-eager-loading-in-Laravel) |
+|179| [Singleton Class and Trait and show use of Trait by Creating Singleton Class?](#What-is-eager-loading-in-Laravel) |
 |180| [Difference between $var and $$var?](#How-to-generate-application-key-in-laravel) |
-|181| [insert data in three table in a single query](#What-is-LTS-version-of-Laravel) |
-|182| [JWT token?](#How-to-use-GROUP_CONCAT()-with-JOIN-in-Laravel) |
-|183| [Api security](#How-to-extend-login-expire-time-in-Auth) |
+|181| [Insert data in three table in a single query](#What-is-LTS-version-of-Laravel) |
+|182| [What is JWT token?](#How-to-use-GROUP_CONCAT()-with-JOIN-in-Laravel) |
+|183| [How to do Api security?](#How-to-extend-login-expire-time-in-Auth) |
 |184| [Find min and max from array of 1 million](#How-to-extend-a-layout-file-in-laravel-view) |
-|185| [write a logic to validate email id using javascript?](#How-do-you-use-yield()) |
+|185| [Write a logic to validate email id using javascript?](#How-do-you-use-yield()) |
 |186| [What is searialization?](#How-to-redirect-form-controller-to-view-file-in-laravel) |
-|187| [u have 2 php pages. (lib.php and welcome.php) u have to use a variable (say x) from lib.php in welcome.php. if u change the x in welcome.php it shouldnt affect the value in lib.php?](#How-to-get-current-route-name) |
+|187| [You have 2 php pages. (lib.php and welcome.php) u have to use a variable (say x) from lib.php in welcome.php. if u change the x in welcome.php it shouldnt affect the value in lib.php?](#How-to-get-current-route-name) |
 |188| [Use of CORS in api development?](#What-is-ACL-in-laravel) |
 |189| [How to concatenate two variables in PHP?](#How-to-check-Ajax-request-in-Laravel) |
 |190| [Program for Anagram?](#How-to-check-if-value-is-sent-in-request) |
@@ -224,10 +224,6 @@
 |216| [Revert a linked list using recursion](#What-does-PHP-compact-function-do) |
 |217| [What is the use of count() function in PHP](#What-is-APP_KEY-used-for) |
 
-
-
-
- 
 1. ### What are the pros of using Laravel?
 
  A. Most demanded PHP framework.
