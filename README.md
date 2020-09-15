@@ -254,6 +254,10 @@
 |245| [What are the encryption functions in PHP?](#What-is-APP_KEY-used-for) |
 |246| [What is htaccess in PHP?](#What-is-APP_KEY-used-for) |
 |247| [You have the following tables: Student(Id, name), Course(Id, name), result (st_id, c_id, grade ). Display Student name, no of Courses in which the student has failed, the failed grade being F.](#What-is-APP_KEY-used-for) |
+|248| [How will I increase security in a Contact form using PHP?](#What-is-APP_KEY-used-for) |
+
+
+
 
 
 
