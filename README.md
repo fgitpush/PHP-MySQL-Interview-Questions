@@ -223,6 +223,38 @@
 |215| [Difference between constructor or distructor in php?](#What-is-Kept-in-vendor-directory-of-Laravel) |
 |216| [Revert a linked list using recursion](#What-does-PHP-compact-function-do) |
 |217| [What is the use of count() function in PHP](#What-is-APP_KEY-used-for) |
+What is PEAR in PHP?
+Explain the difference b/w static and dynamic websites?
+What is the name of scripting engine in PHP?
+Explain the difference between PHP4 and PHP5?
+What are the popular frameworks in PHP?
+Which programming language does PHP resemble to?
+List some of the features of PHP7
+List some of the features of PHP5
+List some of the features of PHP6
+What is the difference between "echo" and "print" in PHP?
+What is the difference between $message and $$message?
+What are the ways to define a constant in PHP?
+What are magic constants in PHP?
+How many data types are there in PHP?
+How to do single and multi line comment in PHP?
+Explain PHP parameterized functions.
+How many types of array are there in PHP?
+What is the difference between indexed and associative array?
+How to get the length of string?
+Differentiate between require and include?
+Explain setcookie() function in PHP?
+How can you retrieve a cookie value?
+What is a session?
+What is the difference between session and cookie?
+What is PHP session_start() and session_destroy() function?
+What is the method to execute a PHP script from the command line?
+How to create connection in PHP?
+How can we increase execution time of a PHP script?
+What are the different types of errors in PHP?
+What are the encryption functions in PHP?
+What is htaccess in PHP?
+
 
 1. ### What are the pros of using Laravel?
 
