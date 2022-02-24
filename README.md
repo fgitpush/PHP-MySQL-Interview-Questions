@@ -268,7 +268,269 @@ If a parent record was accidentally deleted without removing the child records, 
 list Background Processes in oracle Database
 Regarding Replication, deadlock, installation, upgradation
 
+Q. What is PHP?
+Q. Is PHP case sensitive?
+Q. Is PHP weakly typed language?
+Q. How do we install PHP?
+Q. What is Composer?
+Q. How to check current PHP version and other information about our system?
+Q. What is interpreter?
+Q. Is PHP compiled or interpreted?
+Q. Explain datatypes in PHP?
+Q. What are rules for naming a variable?
+Q. How will you define a constant?
+Q. What is the purpose of constant() function?
+Q. What are the differences between constants and variables?
+Q. What are the different scopes of variables?
+Q. What is string?
+Q. What is the difference between single quoted string and double quoted string?
+Q. How can you convert string into array elements?
+Q. How can you convert array into strings?
+Q. How can you concatenate two or more strings?
+Q. Differentiate between echo and print()?
+Q. Explain static variables?
+Q. What are PHP magic constants?
+Q. Why do we need trim() function?
+Q. Can you count the number of words in a string?
+Q. How to reverse a string?
+Q. How to find the position of a specific text in a string?
+Q. How can you change cases in a string?
+Q. Can you replace a substring?
+Q. Differentiate between str_replace() and str_ireplace()?
+Q. Differentiate between printf() and print()?
+Q. Differentiate between strstr() & strchr() functions?
+Q. Differentiate between strstr() and stristr()?
+Q. Can you encode a string in PHP?
+Q. Differentiate between strcmp() and strncmp()?
+Q. Is it possible to remove the HTML tags from data?
+Q. What is the use of gettype() in PHP?
+Q. What is heredoc and nowdoc?
+Q. Explain if-else statement?
+Q. Explain switch statement with example?
+Q. Differentiate between switch and if-else statement?
+Q. What are the different types of operators?
+Q. Explain arithmetic operators?
+Q. Explain the assignment operators?
+Q. Explain the logical operators?
+Q. Explain the unary operators?
+Q. Explain the comparison operators?
+Q. Differentiate between === and == operators in PHP?
+Q. Explain pre and post increment with example?
+Q. What do you mean by operator overloading?
+Q. How many loops are available in PHP?
+Q. Explain while loop with example?
+Q. Explain do-while loop with example?
+Q. Explain for loop with example?
+Q. Explain foreach loop with example?
+Q. How can you implement an infinite loop in PHP?
+Q. How can you implement recursion in PHP?
+Q. Explain break statement with example?
+Q. Explain continue statement with example?
+Q. Give example of declaration in php?
+Q. What is require in PHP?
+Q. What is an array?
+Q. How can you print an array in PHP?
+Q. What do we mean by the base address of an array?
+Q. What do we mean by keys and values?
+Q. What are the keys & values in an indexed array?
+Q. How can we convert array into string?
+Q. How can we convert a string into an array elements?
+Q. How can we concatenate arrays in PHP?
+Q. Which function counts all the values of an array?
+Q. How can we check if an element exists in an array?
+Q. Which function inserts an element to the end of an array?
+Q. What is the use of array_chunk() function?
+Q. Why do we use extract()?
+Q. What is a function?
+Q. What are the different types of functions?
+Q. Classify function on basis of parameters?
+Q. Differentiate between parameterized and non parameterized functions?
+Q. Does PHP support both call by value and call by reference?
+Q. Explain call by value?
+Q. Explain call by reference?
+Q. What are the function declaration rules?
+Q. How can we declare user defined functions?
+Q. What do we mean by actual and formal parameters?
+Q. Maximum how many arguments are allowed in a function in PHP?
+Q. Explain header()?
+Q. What do we mean by return type of a function?
+Q. What is the return type of a function that doesn't return anything?
+Q. Do we need to mention the return type of a function explicitly in PHP?
+Q. What is function that can be used to build a function that accepts any number of arguments?
+Q. Explain the return statement?
+Q. Can we use multiple return statements in a function?
+Q. What is the use of ini_set()?
+Q. What is the difference between unlink and unset functions?
+Q. How ereg() function works?
+Q. How eregi() function works?
+Q. What is the purpose of getdate() function?
+Q. What is the purpose of date() function?
+Q. How will you call member functions of a class?
+Q. How can we display the correct URL of the current webpage?
+Q. How to get the information about the uploaded file in the receiving script?
+Q. What do we mean by server?
+Q. What are PHP superglobals?
+Q. How will we get information sent via GET method?
+Q. How will you get information sent via POST method?
+Q. What is the purpse $_REQUEST variable?
+Q. What is the purpose of $_FILES variable?
+Q. What is the purpose of $GLOBALS variable in PHP?
+Q. What is the purpose of $_SERVER variable in PHP?
+Q. What is the purpose of $_COOKIE variable in PHP?
+Q. What do you mean by environment variable in PHP?
+Q. What is the purpose of $_ENV variable in PHP?
+Q. What is the purpose of $_SESSION variable in PHP?
+Q. How will you redirect a page?
+Q. What is the purpose $_PHP_SELF variable?
+Q. How will you get the browser details using PHP?
+Q. What do you mean by HTTP status codes?
+Q. What are the HTTP client error codes?
+Q. What are the informational status codes?
+Q. What are the HTTP success codes?
+Q. How do you get the redirection related information?
+Q. What is API?
+Q. What is REST API?
+Q. What is JSON?
+Q. Why do we need JSON?
+Q. How can you exchange data using JSON?
+Q. Differentiate between JSON & XML?
+Q. What are the advantages of JSON?
+Q. What is Session?
+Q. What is Cookie?
+Q. Differentiate between Session & Cookie?
+Q. How do we start a session?
+Q. How can we set session variable?
+Q. How to remove value from session variable?
+Q. When do we need to set session variables?
+Q. When do we need a session and not a cookie?
+Q. When do we need a cookie and not a session?
+Q. How can we set a cookie?
+Q. How to modify a cookie value?
+Q. How will we make a check that a cookie is set or not?
+Q. How to retrieve all cookie values?
+Q. How to delete a cookie?
+Q. How can we implement 'remember me' using PHP?
+Q. Classify cookies?
+Q. How will you delete a cookie?
+Q. How to track login and logout using PHP?
+Q. How to create a file?
+Q. What are the other way to write in a file?
+Q. How will you check if a file exists or not using php?
+Q. How to delete a file?
+Q. How to copy a file?
+Q. How to rename file?
+Q. How to check whether a file or directory exists?
+Q. How to check path of the file in PHP?
+Q. How to check size of the file in PHP?
+Q. How to write the contents inside file?
+Q. Explain file() method?
+Q. How To change the file permissions?
+Q. What are different ways to get the extension of a file?
+Q. How to create a directory using PHP?
+Q. How to get files(contents) from directory?
+Q. How to open a directory?
+Q. What is include in php?
+Q. What is require_once in php?
+Q. What is include_once in php?
+Q. What is require() in PHP?
+Q. What is difference between require and include?
+Q. What is RegEx?
+Q. Why do we need RegEx?
+Q. How preg_match() function works?
+Q. Regualar Expression Notations?
+Q. Regualar Expression Examples?
+Q. What is OOPs?
+Q. What is an object?
+Q. How can we create object of a class?
+Q. What is a class?
+Q. What are the basic features of OOPs?
+Q. Is PHP purely an object oriented language?
+Q. Differentiate between OOPs & POPs?
+Q. What is generalization?
+Q. What is specialization?
+Q. What is aggregation?
+Q. What is composition?
+Q. What is association?
+Q. What is abstraction?
+Q. What is encapsulation?
+Q. What is inheritance?
+Q. What is super class?
+Q. What is a sub class?
+Q. How can you inherit a class in PHP?
+Q. What is a constructor?
+Q. Explain __construct()?
+Q. Classify constructor?
+Q. What is a destructor?
+Q. Explain $this?
+Q. Explain multiple inheritance?
+Q. Does PHP support multiple inheritance?
+Q. Explain multi-level inheritance?
+Q. What is polymorphism?
+Q. What is method overloading?
+Q. Does PHP support method overloading?
+Q. What is method overriding?
+Q. What are interfaces in PHP?
+Q. What does the presence of operator ‘::’ represent?
+Q. How to define a class in PHP?
+Q. How will you add a constructor function to a PHP class?
+Q. How will you add a destructor function to a PHP class?
 
+Q. How will you access the reference to same object within the object in PHP?
+Q. What do you mean by access modifier?
+Q. Explain access modifiers in PHP?
+Q. Explain final class in PHP?
+Q. Explain abstract class?
+Q. What is interface?
+Q. What do you mean by an exception?
+Q. Define Exception class Hierarchy?
+Q. How do we handle exceptions?
+Q. Differentiate between exception and error?
+Q. What do we mean by error log?
+Q. How do we see PHP errors?
+Q. What are the exception class functions?
+Q. What does the expression Exception::__toString means?
+Q. Why do we need cryptography?
+Q. What do we mean by hash functions?
+Q. Whart is hash function in PHP?
+Q. Example using hash()?
+Q. What is encoding and decoding?
+Q. What is SHA1?
+Q. Can sha1 be decrypted?
+Q. What is sha1_file()?
+Q. What are the disadvantages of sha1()?
+Q. What MD5 means?
+Q. Why can not a MD5 hash be decrypted?
+Q. Is md5 reversible?
+Q. Compare sha1() and md5()?
+Q. What is enctype?
+Q. Explain each Mcrypt function supported in PHP?
+Q. What is cryptography authentication?
+Q. What is HTML?
+Q. Differentiate between PHP and HTML?
+Q. What are the different methods or HTTP verbs of sending data to the server?
+Q. What is the difference between GET and POST methods?
+Q. How can we send email?
+Q. How file upload works?
+Q. What is SQL?
+Q. How many types of database connections possible in PHP?
+Q. Adavantages of PDO over MySQLi approach?
+Q. How connect to the database using PDO?
+Q. What is SQL injection?
+Q. How can we get the browser's details using PHP?
+Q. What is the use of Xdebug extension?
+Q. What is the purpose of php.ini file?
+Q. What is curl?
+Q. What is PDO in PHP?
+Q. What is autoloading classes in PHP?
+Q. Discuss die()?
+Q. What are variable variable?
+Q. What are return type declarations?
+Q. Explain the Exception Hierarchy introduced in PHP 7?
+Q. What is use of Spaceship Operator?
+Q. After the code below is run, what are the values of $a and $b?
+Q. Looking at the code below, what will the function getTemplateName() return?
+Q. Explain, line by line, what the following code does. Can it be improved?
+Q. What is use of Null Coalesce Operator?
 
 
 
