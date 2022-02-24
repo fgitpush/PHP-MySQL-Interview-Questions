@@ -262,6 +262,11 @@
 
 
 
+If i know what is ACID?
+different raid systems
+If a parent record was accidentally deleted without removing the child records, what query could you use to determine what records were "orphaned".
+list Background Processes in oracle Database
+Regarding Replication, deadlock, installation, upgradation
 
 
 
