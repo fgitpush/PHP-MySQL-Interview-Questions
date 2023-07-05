@@ -2908,8 +2908,7 @@ When a class inherits another class. It uses extends.
    **[⬆ Back to Top](#table-of-contents)**
     
 11. ### What is OOP parent child relationship?
-
-
+  Parent is the class from which we inherit and the class that inherits from other is called child class. The relationship between them is called parent/child relationship. In PHP a class can only have one parent. Other languages like Java allow multiple inheritance.
 
    **[⬆ Back to Top](#table-of-contents)**
     
@@ -3022,8 +3021,11 @@ When a class inherits another class. It uses extends.
    **[⬆ Back to Top](#table-of-contents)**
     
 28. ### Get the last thee max salaried person from table via sql.?
-
-   
+```
+SELECT TOP 3 names
+FROM employees
+ORDER BY SALARY DESC
+```
 
    **[⬆ Back to Top](#table-of-contents)**
     
@@ -3040,4 +3042,34 @@ When a class inherits another class. It uses extends.
 
    **[⬆ Back to Top](#table-of-contents)**
     
-    
+   Write the code of upload a file in php?
+```
+<?php
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $targetDir = 'uploads/'; // Directory where you want to store the uploaded files
+    $targetFile = $targetDir . basename($_FILES['file']['name']); // Full path of the target file
+
+    // Check if the file was uploaded without errors
+    if (move_uploaded_file($_FILES['file']['tmp_name'], $targetFile)) {
+        echo 'File uploaded successfully.';
+    } else {
+        echo 'There was an error uploading the file.';
+    }
+}
+?>
+
+<!-- HTML form for uploading a file -->
+<!DOCTYPE html>
+<html>
+<body>
+    <form action="" method="POST" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="Upload">
+    </form>
+</body>
+</html>
+
+```
+What is indexing?
+
+
