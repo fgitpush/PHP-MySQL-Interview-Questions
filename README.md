@@ -2058,15 +2058,6 @@ Q: Basic relational database questions like indexing and many to many relations.
 What are your strengths and weaknesses?
 Count number of substring occurrences
 Introduce about yourself What is data encapsulation
-
-
-
-
-
-
-
-
-
 What does a special set of tags <?= and ?> do in PHP?
 What’s the difference between include and require?
 I am trying to assign a variable the value of 0123, but it keeps coming up with a different number, what’s the problem?
@@ -2077,6 +2068,7 @@ Will comparison of string "10" and integer 11 work in PHP?
 When are you supposed to use endif to end the conditional statement?
 Explain the ternary conditional operator in PHP?
 How do I find out the number of parameters passed into function?
+ **[⬆ Back to Top](#table-of-contents)**
 
 What is PHP?
 PHP is a server side scripting language commonly used for web applications. PHP has many frameworks and cms for creating websites.Even a non technical person can cretae sites using its CMS.WordPress,osCommerce are the famus CMS of php.It is also an object oriented programming language like java,C-sharp etc.It is very eazy for learning
@@ -2743,9 +2735,6 @@ It is used to display some text with in a textbox or textarea and the text will 
 
 
 
-
-
-
 1. ### What are the pros of using Laravel?
 
 There are 25 reasons why to choose Laravel. While other frameworks also offer MVC, Laravel goes far ahead and offers,
@@ -2775,7 +2764,7 @@ There are 25 reasons why to choose Laravel. While other frameworks also offer MV
 24. Databases and multi databases
 25. Lumen
 
- **[⬆ Back to Top](#table-of-contents)**
+
     
 2. ### What is inheritance in PHP?
 
