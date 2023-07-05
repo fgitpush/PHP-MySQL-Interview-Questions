@@ -2748,12 +2748,32 @@ It is used to display some text with in a textbox or textarea and the text will 
 
 1. ### What are the pros of using Laravel?
 
- A. Most demanded PHP framework.
- B. Great documentation.
- C. MVC based.
- D. ORM for DB.
- E. Blade templating engine
-
+There are 25 reasons why to choose Laravel. While other frameworks also offer MVC, Laravel goes far ahead and offers,
+1. Eloquent
+2. Query Builder
+3. Mail
+4. API Resources
+5. 3rd Party Packages
+6. Bindings
+7. Service Container
+8. Service Provider
+9. Broadcasting
+10. Routes
+11. Single page application features
+12. Jobs and Queues
+13. Tasks and Task scheduling
+14. Events and Notifications
+15. Artisan
+16. Migration and Seeders
+17. Sessions
+18. Log
+19. Caching
+20. Collections
+21. Request
+22. Cookies
+23. File system and multi file systems
+24. Databases and multi databases
+25. Lumen
 
  **[⬆ Back to Top](#table-of-contents)**
     
