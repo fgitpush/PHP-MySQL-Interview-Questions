@@ -820,97 +820,97 @@
 ||307.  OOP in PHP: - Inheritance - Interface - Abstraction - Magic Methods
 ||308.  How many years of work commitment we expect from you!
 ||309.  Code for finding two numbers in an array in which the sum of them will be equal to some static variable value which was already defined.
-310.  Ways to print an array
-311.  Based on tcs ninja
-312.  What is MVC, PHP , SQL
-313.  How to create a session? How to set a value in session ? How to Remove data from a session?
-314.  What is recursion? WAP for Fibonacci.
-315.  $sql = "SELECT * FROM table as a WHERE a.id ={ $id }"; What is wrong with the code ?
-316.  Have you ever handle one million user inputs in a second ?. Write down syntax for ajax call ? 
-317.  Find the second largest of a table value?
-318.  Find a string character count without using string functions ?
-319.  Relationship between Inheritance & Access Modifiers
-320.  What is Multiple Inheritance? 
-321.  What is indexing in DBMS?
-322.  How many engines are available in SQL?
-323.  Run time and compile time polymorphism
-324.  What are indexes ?
-325.  What is Constructor & Ho w We Implement It
-326.  6 Remove Duplicates rows from table
-327.  var_dump('0123' === 123);
-328.  Qual as vantagens do clean code?
-329.  what is the view composer?
-330.  Could you create a web application as a test exam?
-331.  difference between innodb and mysiam
-332.  string reverce without using php functions
-333.  Ben je bekend met SOLID en DRY?
-334.  class Helper{ public function getFormattedUser($a){ $user = new User($a); return $user->name.' '.$user->surname; } } Where is the problem on this code?
-335.  Reverse of String
-336.  Tell me some other software patterns, apart of MVC
-337.  Which tool do you use to manage external dependencies?
-338.  Do you use namespaces?
-339.  What framework you use/ how many SQL experience do you have? How long you use it ? How many experience do you have on that?
-340.  What does SOLID stand for?
-341.  "Have you ever handle one million user inputs in a second ?. Write down syntax for ajax call ? Find the second largest of a table value? find a string character count without using string functions ?"
-342.  What is XSLT?
-343.  Which was your biggest failure?
-344.  All the questions are related to PHP, Bootstrap, and Database. Ex: types of loops in PHP? What is the difference in col-sm and c0-md in Bootstrap and why we use this?
-345.  Q2: What logic will you follow while creating simple Login form?
-346.  What is PHP session?
-347.  How To submit data of one page to another Page Without using GET and POST?
-348.  What are the websites you've built in your previous years?
-349.  There is no difficult questions just core php and system test about add, edit and delete.
-350.  1.Object-oriented concepts. 2.Mysql Joins and Normalization and constraints. 3.Jquery basic questions. 4.Machin test to create API in Codeigniter.
-351.  Do you have exprience in laravel, megento or wordpress.
-352.  find minimum and maximum from 1 million numbers
-353.  There is array of 1 million integers (numbers can be repeatative). find smallest and largest number.
-354.  How to build a multi-user application in Laravel.
-355.  How to get last date of month of given date?
-356.  write a program add array value with function and without function.
-357.  Solve the rubiks cube...how long will it take for you?
-358.  What is Sql injection?
-359.  Ask general question on php regading function nad string
-360.  Give five array functions name in php
-361.  How do you define a helper in Laravel?
-362.  How can we get data between two dates using Query in Laravel?
-363.  Tell me about Collection Framework.
-364.  Q: How to delete a specific element in an array?
-365.  Write a php program in a textbox. You need to make the program success with getting no warning and displaying the right output within the given timeframe.
-366.  what are the successful thing in your career?
-367.  Given a link to online app. How can you split this app for microservices
-368.  Basic Questio of php and oops, array, array,variables that all.
-369.  Some logic where user selects from a drop down, so that it should display records which is related to 4 tables. Submit through ajax & display the result.
-370.  If I client wanted an app in addition to their website what would you tell them?
-371.  Mysql Joins?
-372.  Create a Fizzbuzz
-373.  Name 3 of the 5 principles of object oriented development.
-374.  Besides the question about interfaces vs classes, perhaps the most exposing question to me was, "Do you consider yourself more of a procedural developer, or object oriented?" In today's fast-moving technology skill set where advanced techniques and frameworks are touted, to admit I have been primarily procedural was a bit humbling; however, I understand I was in the #1 running for the position until they finally decided to simply not fill the position. Needless to say, of course, I did not get the job.
-375.  What is Laravel and what is dependency manager in Laravel?
-376.  What is Php ini?
-377.  write a program to print palindrome from specified range
-378.  Find the square numbers in the given range (x,y).
-379.  Q. Write a console PHP code using Standard Input / Output for the following problem: Given N numbers, [N&lt;=10^5] we need to count the total pairs of numbers that have a difference of K. [K&gt;0 and K&lt;1e9]. Input Format: 1st line contains N & K (integers). 2nd line contains N numbers of the set. All the N numbers are assured to be distinct. Output Format: One integer saying the no of pairs of numbers that have a diff K. Sample Input #00: 5 2 1 5 3 4 2 Sample Output #00: 3 Sample Input #01: 10 1 363374326 364147530 61825163 1073065718 1281246024 1399469912 428047635 491595254 879792181 1069262793 Sample Output #01: 0
-380.  What are different types of errors in PHP
-381.  Three light switches in one room, three lightbulbs in another, you can only have on light switch on when you walk into the room with lightbulbs, how can you tell which light switch corresponds to what lightbulb? (Hint: The lightbulbs are incandescent)
-382.  The coding challenge asked me to calculate students percentile rank using a group of data. It required me to provide testing, scalability, reusability, etc. with PHP.
-383.  How would I optimize a db query
-384.  Are Multiple inheritances supported in PHP?
-385.  Your biggest failure and what you did after it happened.
-386.  All the core concepts in PHP
-387.  You tried your 100% to solve an issue but you didn't get succeed and your TL is not available/busy at that time. Then, what will you do?
-388.  preg_split()
-389.  Programming Component: How do you tell if a string is a palindrome
-390.  Do you know SOLID principles?
-391.  How do you extend two classes in PHP?
-392.  how to solve the problem when the situation that over 100000 people use the system at the same time
-393.  Which is best website according to you?
-394.  What are OOP concepts ?
-395.  Core PHP and OOPs Questions OOPs Programs Mysql Queries and Optimization concepts Zend Framework Questions Teams and Leadership Questions
-396.  If I was familiar with ERP and Magento
-397.  Create a CRUD API, and interface for it, add it to Github, create test cases
-398.  They had me design a database and during the design they continually changed how they wanted the data to act or be stored while disallowing changes to the schema.
-399.  Array Functions in PHP. Exception Handling.
-400.  1) They have asked some questions in object oriented programming. 2) They have asked to write oops technique like inheritance, Polymorphism in php language. 3) They have asked about final year project .
+||310.  Ways to print an array
+||311.  Based on tcs ninja
+||312.  What is MVC, PHP , SQL
+||313.  How to create a session? How to set a value in session ? How to Remove data from a session?
+||314.  What is recursion? WAP for Fibonacci.
+||315.  $sql = "SELECT * FROM table as a WHERE a.id ={ $id }"; What is wrong with the code ?
+||316.  Have you ever handle one million user inputs in a second ?. Write down syntax for ajax call ? 
+||317.  Find the second largest of a table value?
+||318.  Find a string character count without using string functions ?
+||319.  Relationship between Inheritance & Access Modifiers
+||320.  What is Multiple Inheritance? 
+||321.  What is indexing in DBMS?
+||322.  How many engines are available in SQL?
+||323.  Run time and compile time polymorphism
+||324.  What are indexes ?
+||325.  What is Constructor & Ho w We Implement It
+||326.  6 Remove Duplicates rows from table
+||327.  var_dump('0123' === 123);
+||328.  Qual as vantagens do clean code?
+||329.  what is the view composer?
+||330.  Could you create a web application as a test exam?
+||331.  difference between innodb and mysiam
+||332.  string reverce without using php functions
+||333.  Ben je bekend met SOLID en DRY?
+||334.  class Helper{ public function getFormattedUser($a){ $user = new User($a); return $user->name.' '.$user->surname; } } Where is the problem on this code?
+||335.  Reverse of String
+||336.  Tell me some other software patterns, apart of MVC
+||337.  Which tool do you use to manage external dependencies?
+||338.  Do you use namespaces?
+||339.  What framework you use/ how many SQL experience do you have? How long you use it ? How many experience do you have on that?
+||340.  What does SOLID stand for?
+||341.  "Have you ever handle one million user inputs in a second ?. Write down syntax for ajax call ? Find the second largest of a table value? find a string character count without using string functions ?"
+||342.  What is XSLT?
+||343.  Which was your biggest failure?
+||344.  All the questions are related to PHP, Bootstrap, and Database. Ex: types of loops in PHP? What is the difference in col-sm and c0-md in Bootstrap and why we use this?
+||345.  Q2: What logic will you follow while creating simple Login form?
+||346.  What is PHP session?
+||347.  How To submit data of one page to another Page Without using GET and POST?
+||348.  What are the websites you've built in your previous years?
+||349.  There is no difficult questions just core php and system test about add, edit and delete.
+||350.  1.Object-oriented concepts. 2.Mysql Joins and Normalization and constraints. 3.Jquery basic questions. 4.Machin test to create API in Codeigniter.
+||351.  Do you have exprience in laravel, megento or wordpress.
+||352.  find minimum and maximum from 1 million numbers
+||353.  There is array of 1 million integers (numbers can be repeatative). find smallest and largest number.
+||354.  How to build a multi-user application in Laravel.
+||355.  How to get last date of month of given date?
+||356.  write a program add array value with function and without function.
+||357.  Solve the rubiks cube...how long will it take for you?
+||358.  What is Sql injection?
+||359.  Ask general question on php regading function nad string
+||360.  Give five array functions name in php
+||361.  How do you define a helper in Laravel?
+||362.  How can we get data between two dates using Query in Laravel?
+||363.  Tell me about Collection Framework.
+||364.  Q: How to delete a specific element in an array?
+||365.  Write a php program in a textbox. You need to make the program success with getting no warning and displaying the right ||output within the given timeframe.
+||366.  what are the successful thing in your career?
+||367.  Given a link to online app. How can you split this app for microservices
+||368.  Basic Questio of php and oops, array, array,variables that all.
+||369.  Some logic where user selects from a drop down, so that it should display records which is related to 4 tables. Submit through ajax & display the result.
+||370.  If I client wanted an app in addition to their website what would you tell them?
+||371.  Mysql Joins?
+||372.  Create a Fizzbuzz
+||373.  Name 3 of the 5 principles of object oriented development.
+||374.  Besides the question about interfaces vs classes, perhaps the most exposing question to me was, "Do you consider yourself more of a procedural developer, or object oriented?" In today's fast-moving technology skill set where advanced techniques and frameworks are touted, to admit I have been primarily procedural was a bit humbling; however, I understand I was in the #1 running for the position until they finally decided to simply not fill the position. Needless to say, of course, I did not get the job.
+||375.  What is Laravel and what is dependency manager in Laravel?
+||376.  What is Php ini?
+||377.  write a program to print palindrome from specified range
+||378.  Find the square numbers in the given range (x,y).
+||379.  Q. Write a console PHP code using Standard Input / Output for the following problem: Given N numbers, [N&lt;=10^5] we need to count the total pairs of numbers that have a difference of K. [K&gt;0 and K&lt;1e9]. Input Format: 1st line contains N & K (integers). 2nd line contains N numbers of the set. All the N numbers are assured to be distinct. Output Format: One integer saying the no of pairs of numbers that have a diff K. Sample Input #00: 5 2 1 5 3 4 2 Sample Output #00: 3 Sample Input #01: 10 1 363374326 364147530 61825163 1073065718 1281246024 1399469912 428047635 491595254 879792181 1069262793 Sample Output #01: 0
+||380.  What are different types of errors in PHP
+||381.  Three light switches in one room, three lightbulbs in another, you can only have on light switch on when you walk into the room with lightbulbs, how can you tell which light switch corresponds to what lightbulb? (Hint: The lightbulbs are incandescent)
+||382.  The coding challenge asked me to calculate students percentile rank using a group of data. It required me to provide testing, scalability, reusability, etc. with PHP.
+||383.  How would I optimize a db query
+||384.  Are Multiple inheritances supported in PHP?
+||385.  Your biggest failure and what you did after it happened.
+||386.  All the core concepts in PHP
+||387.  You tried your 100% to solve an issue but you didn't get succeed and your TL is not available/busy at that time. Then, what will you do?
+||388.  preg_split()
+||389.  Programming Component: How do you tell if a string is a palindrome
+||390.  Do you know SOLID principles?
+||391.  How do you extend two classes in PHP?
+||392.  how to solve the problem when the situation that over 100000 people use the system at the same time
+||393.  Which is best website according to you?
+||394.  What are OOP concepts ?
+||395.  Core PHP and OOPs Questions OOPs Programs Mysql Queries and Optimization concepts Zend Framework Questions Teams and Leadership Questions
+||396.  If I was familiar with ERP and Magento
+||397.  Create a CRUD API, and interface for it, add it to Github, create test cases
+||398.  They had me design a database and during the design they continually changed how they wanted the data to act or be stored while disallowing changes to the schema.
+||399.  Array Functions in PHP. Exception Handling.
+||400.  1) They have asked some questions in object oriented programming. 2) They have asked to write oops technique like inheritance, Polymorphism in php language. 3) They have asked about final year project .
 401.  They asked to do PHP code for creating database and CRUD operation. And SQL queries like joins.
 402.  1.Third parameter of explode 2.Question based on group by query 3. PHP logical questions
 403.  Api Integration on machine
