@@ -920,97 +920,97 @@
 ||407.  Are you comfortable working in more than one language?
 ||408.  He asked about sql connectivity in php
 ||409.  How to register a middleware in laravel
-410.  Given an array of words, how can you reduce the lookup of all words that contain a given set of characters in O(1) instead of O(n).
-411.  Draw for us how an ATM machine works.
-412.  How do I handle situations where there is a conflict?
-413.  Do you apply principles, patterns and proposals to your code, which one do you use?
-414.  I have a bucket of 5 litres and a bucket of 4 litres of water. How can I make 4 litres? and then generic OOP questions
-415.  They asked me how to create API ?
-416.  Describe how Laravel containers are used
-417.  Why do you prefer to use linux ?
-418.  Tell us your experience in PHP
-419.  Diff between datatype and datastructures
-420.  SQL Queries , array functions, MVC Pattern, SQL transaction, Rollback
-421.  1. Why do you want to leave your previous job? 2. Why is Java Platform Independent? 3. What do you know about Quick Sort? 4. A pattern question, program to draw a specific pattern.
-422.  8: find names of students whose age is greater than 21?
-423.  Programming Component: How do you prevent XSS/SQL injection on a simple example
-424.  How should you go about finding a bottleneck at some page at your site? (e.g. one taking too long to load). Then, if it's the database, how to solve that.
-425.  var_dump('0123' == 123);
-426.  $array = array( "1" => "a", "1" => "b", "1.5" => "c", true => "d", ); print_r($array);
-427.  var_dump(0123 == 123);
-428.  An SQL to display the count of duplicate entries.
-429.  What is magic function in php
-430.  Recursive function
-431.  To code a basic form using HTML, PHP and database
-432.  Just asked to write a program to display the table data
-433.  Why CI not Joomla ? It was really difficult to explain.
-434.  Q) take input a number N. if N is even display some error else display a matrix N*N all border elements and both diagonals elements are * and remaining elements as _ .
-435.  What would be another efficient way to divide a integer by 2 ?
-436.  How would you write a palindrome function?
-437.  what is recursive functions?
-438.  Explain preg_Match and preg_replace
-439.  What is Interface ? What is Abstract class ? Difference between them ? Database design of online shopping cart. Different questions on design and various modifications. Types of error in PHP ? How to optimize websites ? How to swap 2 number w/o 3rd variable ? Mysql Engines Mysql Index. Disadvantages of it. Various queries (finding duplicate entry, finding 2nd highest entry, etc) Finding 5th child in jQuery
-440.  Have you contributed to open source?
-441.  Then I asked cakephp Questions.
-442.  They mainly focused you are able to work with JSON data and AJAX
-443.  write a code for database connection
-444.  Program to validate emai id using javascript Define multidimensional array
-445.  associate array
-446.  update and insert in sql
-447.  What are the different types of JOINS ?
-448.  About API Integration, Working with security
-449.  array merge and array combine
-450.  What is Inner Join?
-451.  Write a php program to produce this : Input: we are hiring Output : ew era gnirih
-452.  There are 3 light bulbs in a room. The switches are outside for each bulb. You are allowed to go inside the room only once. How do you determine the connections to the bulb and switches?
-453.  What are a few personal web projects you've got going on?
-454.  To write a php code to print star pattern.
-455.  Life Cycle of laravel, Why are migrations important?
-456.  Eloquent Query Question, 1) One To One 2) One To Many 3) Many To Many
-457.  What are datatypes in mysql?
-458.  How to destroy sessions?
-459.  what are access specifiers?
-460.   Can you write me a PHP form with validation?
-461.   SQL Injection, XSS Attack, etc.
-462.   2) Write a program to print prime number between 499 and 699
-463.   what is file handling in PHP and which functions used?
-464.   How is php and mysql connect?
-465.   Q. Use of "final" keyword.
-466.   They gave me an array starting with 0's then 1's need to find the first index of the number 1
-467.   what is POD
-468.   groupby query and joins
-469.   What is array function,string funcction,basic php questions, Laravel default structure,
-470.   How to make Laravel package?
-471.   hastable
-472.   Which difference between Constructor and Abstract Сlass and why?
-473.   How many database indexes can you have in a single table?
-474.   Difference between sort by and order by.
-475.   how would you go around solving the N + 1 select problem?
-476.   anagram
-477.   What is Middleware in Laravel?
-478.   what is index in mysql
-479.   What is faster $i++; or ++$i;
-480.   distribute system design
-481.   Database design was challenging.
-482.   database schema design
-483.   Where do you see yourself in N years?
-484.   Laravel middleware, Eloquent, migrations, seeder, artisan , MySQL joins
-485.   Explain what the composition is?
-486.   OOP, OOD, ACID, DB indexes, PHP traits, micro-services, docker, testing, TDD, DDD, Architectural patterns, NO SQL, SQL Joins, group by
-487.   Describe one of the anti-pattern in OOP
-488.   What other design patterns except for SOLID do you know
-489.   What is a service container and how it works
-490.   1. Basic PHP knowledge. Types, Arrays? and etc 2. Writing MySQL query (3 different query). 3. OOP questions 4. Js questions (types, closure, execution context) 6. Css questions 7. HTTP methods, Status codes 8. Dessign patterns only about singleton
-491.   questions about SQL joins and different type of joins. in a left join, what will be returned from right table if don't find any matching rows from the right table?
-492.   sort a array of objects based on one of the properties of the array.
-493.   Basic PHP, SQL, Object Oriented programming questions. Like what is expansion for PHP. What is abstract class. What is a class and what is a object. Difference between PHP Version 3,4 and 5. Singleton?Different Joins in SQL.
-494.   Can you name most of the common HTTP status codes?
-495.   How do you scope vars in PHP?
-496.   Have you worked with MVC?
-497.   Tell me about MVC in PHP
-498.   1) Difference between array combine and array merge 2) Preg_replace 3) PEAR in php 4) REST VS AJAX 5) REST VS SOAP 6) Second highest salary 7) sort a array with predefined function 8) Create a class and call add and subtract function 9) Mime type 10) Markup language used in rest web API 11) why this error occur header already sent. 12) difference between put and post 13) HTTP method supported by REST 14) Mysam VS Inno Db 15) INNER JOIN VS LEFT JOIN 16) TRAITS 17) FINAL CLASS 18) MAGIC METHOD 19) complex mysql query 20) PUT VS POST 2nd Round 1) how to implement Security in app 2) MYSQL DB question what is layers in mysql , myisam VS innodb , master slave, optomise datbase , datalayers 3) Server commands TOP , one , c
-499.   What is Stack, Linked List & Queue?
-500.   Write pyramid structure without using PHP function ?
+||410.  Given an array of words, how can you reduce the lookup of all words that contain a given set of characters in O(1) instead of O(n).
+||411.  Draw for us how an ATM machine works.
+||412.  How do I handle situations where there is a conflict?
+||413.  Do you apply principles, patterns and proposals to your code, which one do you use?
+||414.  I have a bucket of 5 litres and a bucket of 4 litres of water. How can I make 4 litres? and then generic OOP questions
+||415.  They asked me how to create API ?
+||416.  Describe how Laravel containers are used
+||417.  Why do you prefer to use linux ?
+||418.  Tell us your experience in PHP
+||419.  Diff between datatype and datastructures
+||420.  SQL Queries , array functions, MVC Pattern, SQL transaction, Rollback
+||421.  1. Why do you want to leave your previous job? 2. Why is Java Platform Independent? 3. What do you know about Quick Sort? 4. A pattern question, program to draw a specific pattern.
+||422.  8: find names of students whose age is greater than 21?
+||423.  Programming Component: How do you prevent XSS/SQL injection on a simple example
+||424.  How should you go about finding a bottleneck at some page at your site? (e.g. one taking too long to load). Then, if it's the database, how to solve that.
+||425.  var_dump('0123' == 123);
+||426.  $array = array( "1" => "a", "1" => "b", "1.5" => "c", true => "d", ); print_r($array);
+||427.  var_dump(0123 == 123);
+||428.  An SQL to display the count of duplicate entries.
+||429.  What is magic function in php
+||430.  Recursive function
+||431.  To code a basic form using HTML, PHP and database
+||432.  Just asked to write a program to display the table data
+||433.  Why CI not Joomla ? It was really difficult to explain.
+||434.  Q) take input a number N. if N is even display some error else display a matrix N*N all border elements and both diagonals elements are * and remaining elements as _ .
+||435.  What would be another efficient way to divide a integer by 2 ?
+||436.  How would you write a palindrome function?
+||437.  what is recursive functions?
+||438.  Explain preg_Match and preg_replace
+||439.  What is Interface ? What is Abstract class ? Difference between them ? Database design of online shopping cart. Different questions on design and various modifications. Types of error in PHP ? How to optimize websites ? How to swap 2 number w/o 3rd variable ? Mysql Engines Mysql Index. Disadvantages of it. Various queries (finding duplicate entry, finding 2nd highest entry, etc) Finding 5th child in jQuery
+||440.  Have you contributed to open source?
+||441.  Then I asked cakephp Questions.
+||442.  They mainly focused you are able to work with JSON data and AJAX
+||443.  write a code for database connection
+||444.  Program to validate emai id using javascript Define multidimensional array
+||445.  associate array
+||446.  update and insert in sql
+||447.  What are the different types of JOINS ?
+||448.  About API Integration, Working with security
+||449.  array merge and array combine
+||450.  What is Inner Join?
+||451.  Write a php program to produce this : Input: we are hiring Output : ew era gnirih
+||452.  There are 3 light bulbs in a room. The switches are outside for each bulb. You are allowed to go inside the room only once. ||How do you determine the connections to the bulb and switches?
+||453.  What are a few personal web projects you've got going on?
+||454.  To write a php code to print star pattern.
+||455.  Life Cycle of laravel, Why are migrations important?
+||456.  Eloquent Query Question, 1) One To One 2) One To Many 3) Many To Many
+||457.  What are datatypes in mysql?
+||458.  How to destroy sessions?
+||459.  what are access specifiers?
+||460.   Can you write me a PHP form with validation?
+||461.   SQL Injection, XSS Attack, etc.
+||462.   2) Write a program to print prime number between 499 and 699
+||463.   what is file handling in PHP and which functions used?
+||464.   How is php and mysql connect?
+||465.   Q. Use of "final" keyword.
+||466.   They gave me an array starting with 0's then 1's need to find the first index of the number 1
+||467.   what is POD
+||468.   groupby query and joins
+||469.   What is array function,string funcction,basic php questions, Laravel default structure,
+||470.   How to make Laravel package?
+||471.   hastable
+||472.   Which difference between Constructor and Abstract Сlass and why?
+||473.   How many database indexes can you have in a single table?
+||474.   Difference between sort by and order by.
+||475.   how would you go around solving the N + 1 select problem?
+||476.   anagram
+||477.   What is Middleware in Laravel?
+||478.   what is index in mysql
+||479.   What is faster $i++; or ++$i;
+||480.   distribute system design
+||481.   Database design was challenging.
+||482.   database schema design
+||483.   Where do you see yourself in N years?
+||484.   Laravel middleware, Eloquent, migrations, seeder, artisan , MySQL joins
+||485.   Explain what the composition is?
+||486.   OOP, OOD, ACID, DB indexes, PHP traits, micro-services, docker, testing, TDD, DDD, Architectural patterns, NO SQL, SQL Joins, group by
+||487.   Describe one of the anti-pattern in OOP
+||488.   What other design patterns except for SOLID do you know
+||489.   What is a service container and how it works
+||490.   1. Basic PHP knowledge. Types, Arrays? and etc 2. Writing MySQL query (3 different query). 3. OOP questions 4. Js questions (types, closure, execution context) 6. Css questions 7. HTTP methods, Status codes 8. Dessign patterns only about singleton
+||491.   questions about SQL joins and different type of joins. in a left join, what will be returned from right table if don't find any matching rows from the right table?
+||492.   sort a array of objects based on one of the properties of the array.
+||493.   Basic PHP, SQL, Object Oriented programming questions. Like what is expansion for PHP. What is abstract class. What is a class and what is a object. Difference between PHP Version 3,4 and 5. Singleton?Different Joins in SQL.
+||494.   Can you name most of the common HTTP status codes?
+||495.   How do you scope vars in PHP?
+||496.   Have you worked with MVC?
+||497.   Tell me about MVC in PHP
+||498.   1) Difference between array combine and array merge 2) Preg_replace 3) PEAR in php 4) REST VS AJAX 5) REST VS SOAP 6) Second highest salary 7) sort a array with predefined function 8) Create a class and call add and subtract function 9) Mime type 10) Markup language used in rest web API 11) why this error occur header already sent. 12) difference between put and post 13) HTTP method supported by REST 14) Mysam VS Inno Db 15) INNER JOIN VS LEFT JOIN 16) TRAITS 17) FINAL CLASS 18) MAGIC METHOD 19) complex mysql query 20) PUT VS POST 2nd Round 1) how to implement Security in app 2) MYSQL DB question what is layers in mysql , myisam VS innodb , master slave, optomise datbase , datalayers 3) Server commands TOP , one , c
+||499.   What is Stack, Linked List & Queue?
+||500.   Write pyramid structure without using PHP function ?
 501.   Are objects passed by value or by reference?
 502.   How do you call the constructor of a parent class from a child class?
 503.   What is meant by urlencode and urldecode?
