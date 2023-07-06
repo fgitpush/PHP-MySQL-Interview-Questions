@@ -621,56 +621,56 @@
 ||98. asked about dissertation for my masters degree
 ||99. what additional value you will bring us to the company?
 ||100. What is OOP and what are its advantages ?
-101. How many years do you have experience with PHP?
-102. how long do you want to work for ATL foundation if you get selected.
-103. can you work under pressure
-104. What do you know about DHCP?
-105. Ask basic questions like OOp concept Php basic Sql Query
-106. There is a programming exercise that you will code a car parking management.
-107. http://www.geekinterview.com/question_details/83626
-108. what is php,ajax,javascript,jquery,html?
-109. Tell me about your self?
-110.  What is MVC architecture?
-111.  Type of Framework?
-112.  Latest version for PHP and Bootstrap? 
-113. Q.What are you Qualification?
-114. When did you graduate?
-115. Name at least 3 different PHP frameworks, and pros and cons of each one.
-116. If I emailed you to offer you this position how quickly could you respond to me?
-117. Tell us how you handled a very challenging technical problem
-118. What is class and objects? And all about mysql and php?
-119. How do you teach yourself new things?
-120. how to set csrf token in codeigniter?
-121. Create one simple admin panel. Where admin can add/update/delete product details like name, quantity, price, active. (Done) - Now the user can add product into cart after login (cart will be local, no need to save into DB) - When user checkout all cart related details are added into database. - Now the admin can see all the order details. - Admin can see the top 10 selling products. Other Info ------------------------------ - Use Laravel 7+. - Add proper comments into code. - Add 100k products using seeders. - Try to optimize DB query and relations.
-122. Why do you want join this company?
-123. Do you have experience with FileMaker?
-124. Can you build a dashboard with a PHP backend?
-125. Show how to traverse a tree.
-126. What is my previous experience
-127.  design patterns
-128. object oriented programming
-129. What is PSR-2?
-130. question about mysql joins, etc
-131. How does SSL work? 
-132. Why do we need 3rd party SSL providers while we are able to create our own certificate?
-133. PHP Frameworks
-134. create a project with CRUD, one algorithm logic and insert data in db for testing.
-135. Query to get the 31st highest salary.
-136. What is usermeta function in Wordpress
-137. Are you willing to sign a bond ?
-138. I was asked to submit a practical project/test in PHP Laravel framework
-139. What does "final" mean in a PHP class?
-140. Technical questions related to PHP concepts like namespace, MVC architecture, sql, API integrations
-141. wap to give output 00000011111 input is 01001011
-142. Form validation using jquery .
-143. System Test: Add, Edit, Delete, View user in PHP
-144. Agile concepts 
-145. how you would create a user login system from scratch (PHP/ Mysql)?
-146. Difference between == and === ?
-147. what's the purpose of vendor folder
-148. What is SQl Injection?
-149. How SQL injection can be prevented?
-150. What is DOM?
+||101. How many years do you have experience with PHP?
+||102. how long do you want to work for ATL foundation if you get selected.
+||103. can you work under pressure
+||104. What do you know about DHCP?
+||105. Ask basic questions like OOp concept Php basic Sql Query
+||106. There is a programming exercise that you will code a car parking management.
+||107. http://www.geekinterview.com/question_details/83626
+||108. what is php,ajax,javascript,jquery,html?
+||109. Tell me about your self?
+||110.  What is MVC architecture?
+||111.  Type of Framework?
+||112.  Latest version for PHP and Bootstrap? 
+||113. Q.What are you Qualification?
+||114. When did you graduate?
+||115. Name at least 3 different PHP frameworks, and pros and cons of each one.
+||116. If I emailed you to offer you this position how quickly could you respond to me?
+||117. Tell us how you handled a very challenging technical problem
+||118. What is class and objects? And all about mysql and php?
+||119. How do you teach yourself new things?
+||120. how to set csrf token in codeigniter?
+||121. Create one simple admin panel. Where admin can add/update/delete product details like name, quantity, price, active. (Done) - Now the user can add product into cart after login (cart will be local, no need to save into DB) - When user checkout all cart related details are added into database. - Now the admin can see all the order details. - Admin can see the top 10 selling products. Other Info ------------------------------ - Use Laravel 7+. - Add proper comments into code. - Add 100k products using seeders. - Try to optimize DB query and relations.
+||122. Why do you want join this company?
+||123. Do you have experience with FileMaker?
+||124. Can you build a dashboard with a PHP backend?
+||125. Show how to traverse a tree.
+||126. What is my previous experience
+||127.  design patterns
+||128. object oriented programming
+||129. What is PSR-2?
+||130. question about mysql joins, etc
+||131. How does SSL work? 
+||132. Why do we need 3rd party SSL providers while we are able to create our own certificate?
+||133. PHP Frameworks
+||134. create a project with CRUD, one algorithm logic and insert data in db for testing.
+||135. Query to get the 31st highest salary.
+||136. What is usermeta function in Wordpress
+||137. Are you willing to sign a bond ?
+||138. I was asked to submit a practical project/test in PHP Laravel framework
+||139. What does "final" mean in a PHP class?
+||140. Technical questions related to PHP concepts like namespace, MVC architecture, sql, API integrations
+||141. wap to give output 00000011111 input is 01001011
+||142. Form validation using jquery .
+||143. System Test: Add, Edit, Delete, View user in PHP
+||144. Agile concepts 
+||145. how you would create a user login system from scratch (PHP/ Mysql)?
+||146. Difference between == and === ?
+||147. what's the purpose of vendor folder
+||148. What is SQl Injection?
+||149. How SQL injection can be prevented?
+||150. What is DOM?
 151. What is cross site scripting and how it can be prevented?
 152. What is Restful Webservice?
 153. How delete operation can be performed using Restful webservice?
