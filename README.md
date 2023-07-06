@@ -911,15 +911,15 @@
 ||398.  They had me design a database and during the design they continually changed how they wanted the data to act or be stored while disallowing changes to the schema.
 ||399.  Array Functions in PHP. Exception Handling.
 ||400.  1) They have asked some questions in object oriented programming. 2) They have asked to write oops technique like inheritance, Polymorphism in php language. 3) They have asked about final year project .
-401.  They asked to do PHP code for creating database and CRUD operation. And SQL queries like joins.
-402.  1.Third parameter of explode 2.Question based on group by query 3. PHP logical questions
-403.  Api Integration on machine
-404.  what is default session time
-405.  How familiar are you with different php frameworks?
-406.  They asked me to import a 30 million row CSV file in MySQL. And show a view, with charts and filters.
-407.  Are you comfortable working in more than one language?
-408.  He asked about sql connectivity in php
-409.  How to register a middleware in laravel
+||401.  They asked to do PHP code for creating database and CRUD operation. And SQL queries like joins.
+||402.  1.Third parameter of explode 2.Question based on group by query 3. PHP logical questions
+||403.  Api Integration on machine
+||404.  what is default session time
+||405.  How familiar are you with different php frameworks?
+||406.  They asked me to import a 30 million row CSV file in MySQL. And show a view, with charts and filters.
+||407.  Are you comfortable working in more than one language?
+||408.  He asked about sql connectivity in php
+||409.  How to register a middleware in laravel
 410.  Given an array of words, how can you reduce the lookup of all words that contain a given set of characters in O(1) instead of O(n).
 411.  Draw for us how an ATM machine works.
 412.  How do I handle situations where there is a conflict?
