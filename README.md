@@ -1,5 +1,5 @@
 
-# PHP-Interview-Questions (+10000 Interview Questions)
+# PHP-Interview-Questions (+1000 Interview Questions)
 
 > Click :star: if you like the project. Pull Request are highly appreciated.
 
