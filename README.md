@@ -312,101 +312,101 @@
 ||Q. How many loops are available in PHP?|
 ||Q. Explain while loop with example?|
 ||Q. Explain do-while loop with example?|
-Q. Explain for loop with example?|
-Q. Explain foreach loop with example?|
-Q. How can you implement an infinite loop in PHP?|
-Q. How can you implement recursion in PHP?
-Q. Explain break statement with example?
-Q. Explain continue statement with example?
-Q. Give example of declaration in php?
-Q. What is require in PHP?
-Q. What is an array?
-Q. How can you print an array in PHP?
-Q. What do we mean by the base address of an array?
-Q. What do we mean by keys and values?
-Q. What are the keys & values in an indexed array?
-Q. How can we convert array into string?
-Q. How can we convert a string into an array elements?
-Q. How can we concatenate arrays in PHP?
-Q. Which function counts all the values of an array?
-Q. How can we check if an element exists in an array?
-Q. Which function inserts an element to the end of an array?
-Q. What is the use of array_chunk() function?
-Q. Why do we use extract()?
-Q. What is a function?
-Q. What are the different types of functions?
-Q. Classify function on basis of parameters?
-Q. Differentiate between parameterized and non parameterized functions?
-Q. Does PHP support both call by value and call by reference?
-Q. Explain call by value?
-Q. Explain call by reference?
-Q. What are the function declaration rules?
-Q. How can we declare user defined functions?
-Q. What do we mean by actual and formal parameters?
-Q. Maximum how many arguments are allowed in a function in PHP?
-Q. Explain header()?
-Q. What do we mean by return type of a function?
-Q. What is the return type of a function that doesn't return anything?
-Q. Do we need to mention the return type of a function explicitly in PHP?
-Q. What is function that can be used to build a function that accepts any number of arguments?
-Q. Explain the return statement?
-Q. Can we use multiple return statements in a function?
-Q. What is the use of ini_set()?
-Q. What is the difference between unlink and unset functions?
-Q. How ereg() function works?
-Q. How eregi() function works?
-Q. What is the purpose of getdate() function?
-Q. What is the purpose of date() function?
-Q. How will you call member functions of a class?
-Q. How can we display the correct URL of the current webpage?
-Q. How to get the information about the uploaded file in the receiving script?
-Q. What do we mean by server?
-Q. What are PHP superglobals?
-Q. How will we get information sent via GET method?
-Q. How will you get information sent via POST method?
-Q. What is the purpse $_REQUEST variable?
-Q. What is the purpose of $_FILES variable?
-Q. What is the purpose of $GLOBALS variable in PHP?
-Q. What is the purpose of $_SERVER variable in PHP?
-Q. What is the purpose of $_COOKIE variable in PHP?
-Q. What do you mean by environment variable in PHP?
-Q. What is the purpose of $_ENV variable in PHP?
-Q. What is the purpose of $_SESSION variable in PHP?
-Q. How will you redirect a page?
-Q. What is the purpose $_PHP_SELF variable?
-Q. How will you get the browser details using PHP?
-Q. What do you mean by HTTP status codes?
-Q. What are the HTTP client error codes?
-Q. What are the informational status codes?
-Q. What are the HTTP success codes?
-Q. How do you get the redirection related information?
-Q. What is API?
-Q. What is REST API?
-Q. What is JSON?
-Q. Why do we need JSON?
-Q. How can you exchange data using JSON?
-Q. Differentiate between JSON & XML?
-Q. What are the advantages of JSON?
-Q. What is Session?
-Q. What is Cookie?
-Q. Differentiate between Session & Cookie?
-Q. How do we start a session?
-Q. How can we set session variable?
-Q. How to remove value from session variable?
-Q. When do we need to set session variables?
-Q. When do we need a session and not a cookie?
-Q. When do we need a cookie and not a session?
-Q. How can we set a cookie?
-Q. How to modify a cookie value?
-Q. How will we make a check that a cookie is set or not?
-Q. How to retrieve all cookie values?
-Q. How to delete a cookie?
-Q. How can we implement 'remember me' using PHP?
-Q. Classify cookies?
-Q. How will you delete a cookie?
-Q. How to track login and logout using PHP?
-Q. How to create a file?
-Q. What are the other way to write in a file?
+||Q. Explain for loop with example?|
+||Q. Explain foreach loop with example?|
+||Q. How can you implement an infinite loop in PHP?|
+||Q. How can you implement recursion in PHP?
+||Q. Explain break statement with example?
+||Q. Explain continue statement with example?
+||Q. Give example of declaration in php?
+||Q. What is require in PHP?
+||Q. What is an array?
+||Q. How can you print an array in PHP?
+||Q. What do we mean by the base address of an array?
+||Q. What do we mean by keys and values?
+||Q. What are the keys & values in an indexed array?
+||Q. How can we convert array into string?
+||Q. How can we convert a string into an array elements?
+||Q. How can we concatenate arrays in PHP?
+||Q. Which function counts all the values of an array?
+||Q. How can we check if an element exists in an array?
+||Q. Which function inserts an element to the end of an array?
+||Q. What is the use of array_chunk() function?
+||Q. Why do we use extract()?
+||Q. What is a function?
+||Q. What are the different types of functions?
+||Q. Classify function on basis of parameters?
+||Q. Differentiate between parameterized and non parameterized functions?
+||Q. Does PHP support both call by value and call by reference?
+||Q. Explain call by value?
+||Q. Explain call by reference?
+||Q. What are the function declaration rules?
+||Q. How can we declare user defined functions?
+||Q. What do we mean by actual and formal parameters?
+||Q. Maximum how many arguments are allowed in a function in PHP?
+||Q. Explain header()?
+||Q. What do we mean by return type of a function?
+||Q. What is the return type of a function that doesn't return anything?
+||Q. Do we need to mention the return type of a function explicitly in PHP?
+||Q. What is function that can be used to build a function that accepts any number of arguments?
+||Q. Explain the return statement?
+||Q. Can we use multiple return statements in a function?
+||Q. What is the use of ini_set()?
+||Q. What is the difference between unlink and unset functions?
+||Q. How ereg() function works?
+||Q. How eregi() function works?
+||Q. What is the purpose of getdate() function?
+||Q. What is the purpose of date() function?
+||Q. How will you call member functions of a class?
+||Q. How can we display the correct URL of the current webpage?
+||Q. How to get the information about the uploaded file in the receiving script?
+||Q. What do we mean by server?
+||Q. What are PHP superglobals?
+||Q. How will we get information sent via GET method?
+||Q. How will you get information sent via POST method?
+||Q. What is the purpse $_REQUEST variable?
+||Q. What is the purpose of $_FILES variable?
+||Q. What is the purpose of $GLOBALS variable in PHP?
+||Q. What is the purpose of $_SERVER variable in PHP?
+||Q. What is the purpose of $_COOKIE variable in PHP?
+||Q. What do you mean by environment variable in PHP?
+||Q. What is the purpose of $_ENV variable in PHP?
+||Q. What is the purpose of $_SESSION variable in PHP?
+||Q. How will you redirect a page?
+||Q. What is the purpose $_PHP_SELF variable?
+||Q. How will you get the browser details using PHP?
+||Q. What do you mean by HTTP status codes?
+||Q. What are the HTTP client error codes?
+||Q. What are the informational status codes?
+||Q. What are the HTTP success codes?
+||Q. How do you get the redirection related information?
+||Q. What is API?
+||Q. What is REST API?
+||Q. What is JSON?
+||Q. Why do we need JSON?
+||Q. How can you exchange data using JSON?
+||Q. Differentiate between JSON & XML?
+||Q. What are the advantages of JSON?
+||Q. What is Session?
+||Q. What is Cookie?
+||Q. Differentiate between Session & Cookie?
+||Q. How do we start a session?
+||Q. How can we set session variable?
+||Q. How to remove value from session variable?
+||Q. When do we need to set session variables?
+||Q. When do we need a session and not a cookie?
+||Q. When do we need a cookie and not a session?
+||Q. How can we set a cookie?
+||Q. How to modify a cookie value?
+||Q. How will we make a check that a cookie is set or not?
+||Q. How to retrieve all cookie values?
+||Q. How to delete a cookie?
+||Q. How can we implement 'remember me' using PHP?
+||Q. Classify cookies?
+||Q. How will you delete a cookie?
+||Q. How to track login and logout using PHP?
+||Q. How to create a file?
+||Q. What are the other way to write in a file?
 Q. How will you check if a file exists or not using php?
 Q. How to delete a file?
 Q. How to copy a file?
