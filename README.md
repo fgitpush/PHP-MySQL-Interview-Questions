@@ -407,124 +407,123 @@
 ||Q. How to track login and logout using PHP?
 ||Q. How to create a file?
 ||Q. What are the other way to write in a file?
-Q. How will you check if a file exists or not using php?
-Q. How to delete a file?
-Q. How to copy a file?
-Q. How to rename file?
-Q. How to check whether a file or directory exists?
-Q. How to check path of the file in PHP?
-Q. How to check size of the file in PHP?
-Q. How to write the contents inside file?
-Q. Explain file() method?
-Q. How To change the file permissions?
-Q. What are different ways to get the extension of a file?
-Q. How to create a directory using PHP?
-Q. How to get files(contents) from directory?
-Q. How to open a directory?
-Q. What is include in php?
-Q. What is require_once in php?
-Q. What is include_once in php?
-Q. What is require() in PHP?
-Q. What is difference between require and include?
-Q. What is RegEx?
-Q. Why do we need RegEx?
-Q. How preg_match() function works?
-Q. Regualar Expression Notations?
-Q. Regualar Expression Examples?
-Q. What is OOPs?
-Q. What is an object?
-Q. How can we create object of a class?
-Q. What is a class?
-Q. What are the basic features of OOPs?
-Q. Is PHP purely an object oriented language?
-Q. Differentiate between OOPs & POPs?
-Q. What is generalization?
-Q. What is specialization?
-Q. What is aggregation?
-Q. What is composition?
-Q. What is association?
-Q. What is abstraction?
-Q. What is encapsulation?
-Q. What is inheritance?
-Q. What is super class?
-Q. What is a sub class?
-Q. How can you inherit a class in PHP?
-Q. What is a constructor?
-Q. Explain __construct()?
-Q. Classify constructor?
-Q. What is a destructor?
-Q. Explain $this?
-Q. Explain multiple inheritance?
-Q. Does PHP support multiple inheritance?
-Q. Explain multi-level inheritance?
-Q. What is polymorphism?
-Q. What is method overloading?
-Q. Does PHP support method overloading?
-Q. What is method overriding?
-Q. What are interfaces in PHP?
-Q. What does the presence of operator ‘::’ represent?
-Q. How to define a class in PHP?
-Q. How will you add a constructor function to a PHP class?
-Q. How will you add a destructor function to a PHP class?
-
-Q. How will you access the reference to same object within the object in PHP?
-Q. What do you mean by access modifier?
-Q. Explain access modifiers in PHP?
-Q. Explain final class in PHP?
-Q. Explain abstract class?
-Q. What is interface?
-Q. What do you mean by an exception?
-Q. Define Exception class Hierarchy?
-Q. How do we handle exceptions?
-Q. Differentiate between exception and error?
-Q. What do we mean by error log?
-Q. How do we see PHP errors?
-Q. What are the exception class functions?
-Q. What does the expression Exception::__toString means?
-Q. Why do we need cryptography?
-Q. What do we mean by hash functions?
-Q. Whart is hash function in PHP?
-Q. Example using hash()?
-Q. What is encoding and decoding?
-Q. What is SHA1?
-Q. Can sha1 be decrypted?
-Q. What is sha1_file()?
-Q. What are the disadvantages of sha1()?
-Q. What MD5 means?
-Q. Why can not a MD5 hash be decrypted?
-Q. Is md5 reversible?
-Q. Compare sha1() and md5()?
-Q. What is enctype?
-Q. Explain each Mcrypt function supported in PHP?
-Q. What is cryptography authentication?
-Q. What is HTML?
-Q. Differentiate between PHP and HTML?
-Q. What are the different methods or HTTP verbs of sending data to the server?
-Q. What is the difference between GET and POST methods?
-Q. How can we send email?
-Q. How file upload works?
-Q. What is SQL?
-Q. How many types of database connections possible in PHP?
-Q. Adavantages of PDO over MySQLi approach?
-Q. How connect to the database using PDO?
-Q. What is SQL injection?
-Q. How can we get the browser's details using PHP?
-Q. What is the use of Xdebug extension?
-Q. What is the purpose of php.ini file?
-Q. What is curl?
-Q. What is PDO in PHP?
-Q. What is autoloading classes in PHP?
-Q. Discuss die()?
-Q. What are variable variable?
-Q. What are return type declarations?
-Q. Explain the Exception Hierarchy introduced in PHP 7?
-Q. What is use of Spaceship Operator?
-Q. After the code below is run, what are the values of $a and $b?
-Q. Looking at the code below, what will the function getTemplateName() return?
-Q. Explain, line by line, what the following code does. Can it be improved?
-Q. What is use of Null Coalesce Operator?
-1. Q1. Draw star pattern like. n=1. * n=2. ** * n=3. *** ** * n=4 **** *** ** * n=5. ***** **** *** ** *  
-2. Given an array of numbers [1,3,3,5,9,4,1,10,9,7,2,7], Write a php function that will print numbers that are not duplicated in array. [5,4,10,2]
+||Q. How will you check if a file exists or not using php?
+||Q. How to delete a file?
+||Q. How to copy a file?
+||Q. How to rename file?
+||Q. How to check whether a file or directory exists?
+||Q. How to check path of the file in PHP?
+||Q. How to check size of the file in PHP?
+||Q. How to write the contents inside file?
+||Q. Explain file() method?
+||Q. How To change the file permissions?
+||Q. What are different ways to get the extension of a file?
+||Q. How to create a directory using PHP?
+||Q. How to get files(contents) from directory?
+||Q. How to open a directory?
+||Q. What is include in php?
+||Q. What is require_once in php?
+||Q. What is include_once in php?
+||Q. What is require() in PHP?
+||Q. What is difference between require and include?
+||Q. What is RegEx?
+||Q. Why do we need RegEx?
+||Q. How preg_match() function works?
+||Q. Regualar Expression Notations?
+||Q. Regualar Expression Examples?
+||Q. What is OOPs?
+||Q. What is an object?
+||Q. How can we create object of a class?
+||Q. What is a class?
+||Q. What are the basic features of OOPs?
+||Q. Is PHP purely an object oriented language?
+||Q. Differentiate between OOPs & POPs?
+||Q. What is generalization?
+||Q. What is specialization?
+||Q. What is aggregation?
+||Q. What is composition?
+||Q. What is association?
+||Q. What is abstraction?
+||Q. What is encapsulation?
+||Q. What is inheritance?
+||Q. What is super class?
+||Q. What is a sub class?
+||Q. How can you inherit a class in PHP?
+||Q. What is a constructor?
+||Q. Explain __construct()?
+||Q. Classify constructor?
+||Q. What is a destructor?
+||Q. Explain $this?
+||Q. Explain multiple inheritance?
+||Q. Does PHP support multiple inheritance?
+||Q. Explain multi-level inheritance?
+||Q. What is polymorphism?
+||Q. What is method overloading?
+||Q. Does PHP support method overloading?
+||Q. What is method overriding?
+||Q. What are interfaces in PHP?
+||Q. What does the presence of operator ‘::’ represent?
+||Q. How to define a class in PHP?
+||Q. How will you add a constructor function to a PHP class?
+||Q. How will you add a destructor function to a PHP class?
+||Q. How will you access the reference to same object within the object in PHP?
+||Q. What do you mean by access modifier?
+||Q. Explain access modifiers in PHP?
+||Q. Explain final class in PHP?
+||Q. Explain abstract class?
+||Q. What is interface?
+||Q. What do you mean by an exception?
+||Q. Define Exception class Hierarchy?
+||Q. How do we handle exceptions?
+||Q. Differentiate between exception and error?
+||Q. What do we mean by error log?
+||Q. How do we see PHP errors?
+||Q. What are the exception class functions?
+||Q. What does the expression Exception::__toString means?
+||Q. Why do we need cryptography?
+||Q. What do we mean by hash functions?
+||Q. Whart is hash function in PHP?
+||Q. Example using hash()?
+||Q. What is encoding and decoding?
+||Q. What is SHA1?
+||Q. Can sha1 be decrypted?
+||Q. What is sha1_file()?
+||Q. What are the disadvantages of sha1()?
+||Q. What MD5 means?
+||Q. Why can not a MD5 hash be decrypted?
+||Q. Is md5 reversible?
+||Q. Compare sha1() and md5()?
+||Q. What is enctype?
+||Q. Explain each Mcrypt function supported in PHP?
+||Q. What is cryptography authentication?
+||Q. What is HTML?
+||Q. Differentiate between PHP and HTML?
+||Q. What are the different methods or HTTP verbs of sending data to the server?
+||Q. What is the difference between GET and POST methods?
+||Q. How can we send email?
+||Q. How file upload works?
+||Q. What is SQL?
+||Q. How many types of database connections possible in PHP?
+||Q. Adavantages of PDO over MySQLi approach?
+||Q. How connect to the database using PDO?
+||Q. What is SQL injection?
+||Q. How can we get the browser's details using PHP?
+||Q. What is the use of Xdebug extension?
+||Q. What is the purpose of php.ini file?
+||Q. What is curl?
+||Q. What is PDO in PHP?
+||Q. What is autoloading classes in PHP?
+||Q. Discuss die()?
+||Q. What are variable variable?
+||Q. What are return type declarations?
+||Q. Explain the Exception Hierarchy introduced in PHP 7?
+||Q. What is use of Spaceship Operator?
+||Q. After the code below is run, what are the values of $a and $b?
+||Q. Looking at the code below, what will the function getTemplateName() return?
+||Q. Explain, line by line, what the following code does. Can it be improved?
+||Q. What is use of Null Coalesce Operator?
+||1. Q1. Draw star pattern like. n=1. * n=2. ** * n=3. *** ** * n=4 **** *** ** * n=5. ***** **** *** ** *  
+||2. Given an array of numbers [1,3,3,5,9,4,1,10,9,7,2,7], Write a php function that will print numbers that are not duplicated in array. [5,4,10,2]
 3. First round is pattern based question like.. n=1 n=2 n=3 * * * *** *** *** * * * * ***** ***** * * * *******
 4. Whats the angle between the minute pointer and hour pointer at 3:15
 5. Draw a reversed T pattern which would generate on dynamic series by giving odd input * * * * * @ @ @ @ Second Question is : * * * * * *
