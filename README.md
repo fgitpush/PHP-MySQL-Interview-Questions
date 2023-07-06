@@ -255,19 +255,11 @@
 |246| [What is htaccess in PHP?](#What-is-APP_KEY-used-for) |
 |247| [You have the following tables: Student(Id, name), Course(Id, name), result (st_id, c_id, grade ). Display Student name, no of Courses in which the student has failed, the failed grade being F.](#What-is-APP_KEY-used-for) |
 |248| [How will I increase security in a Contact form using PHP?](#What-is-APP_KEY-used-for) |
-
-
-
-
-
-
-
 If i know what is ACID?
 different raid systems
 If a parent record was accidentally deleted without removing the child records, what query could you use to determine what records were "orphaned".
 list Background Processes in oracle Database
 Regarding Replication, deadlock, installation, upgradation
-
 Q. What is PHP?
 Q. Is PHP case sensitive?
 Q. Is PHP weakly typed language?
@@ -531,10 +523,6 @@ Q. After the code below is run, what are the values of $a and $b?
 Q. Looking at the code below, what will the function getTemplateName() return?
 Q. Explain, line by line, what the following code does. Can it be improved?
 Q. What is use of Null Coalesce Operator?
-
-
-# PHP
-All Things PHP
 1. Q1. Draw star pattern like. n=1. * n=2. ** * n=3. *** ** * n=4 **** *** ** * n=5. ***** **** *** ** *  
 2. Given an array of numbers [1,3,3,5,9,4,1,10,9,7,2,7], Write a php function that will print numbers that are not duplicated in array. [5,4,10,2]
 3. First round is pattern based question like.. n=1 n=2 n=3 * * * *** *** *** * * * * ***** ***** * * * *******
