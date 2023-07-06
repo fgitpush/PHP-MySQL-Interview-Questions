@@ -255,63 +255,63 @@
 |246| [What is htaccess in PHP?](#What-is-APP_KEY-used-for) |
 |247| [You have the following tables: Student(Id, name), Course(Id, name), result (st_id, c_id, grade ). Display Student name, no of Courses in which the student has failed, the failed grade being F.](#What-is-APP_KEY-used-for) |
 |248| [How will I increase security in a Contact form using PHP?](#What-is-APP_KEY-used-for) |
-If i know what is ACID?
-different raid systems
-If a parent record was accidentally deleted without removing the child records, what query could you use to determine what records were "orphaned".
-list Background Processes in oracle Database
-Regarding Replication, deadlock, installation, upgradation
-Q. What is PHP?
-Q. Is PHP case sensitive?
-Q. Is PHP weakly typed language?
-Q. How do we install PHP?
-Q. What is Composer?
-Q. How to check current PHP version and other information about our system?
-Q. What is interpreter?
-Q. Is PHP compiled or interpreted?
-Q. Explain datatypes in PHP?
-Q. What are rules for naming a variable?
-Q. How will you define a constant?
-Q. What is the purpose of constant() function?
-Q. What are the differences between constants and variables?
-Q. What are the different scopes of variables?
-Q. What is string?
-Q. What is the difference between single quoted string and double quoted string?
-Q. How can you convert string into array elements?
-Q. How can you convert array into strings?
-Q. How can you concatenate two or more strings?
-Q. Differentiate between echo and print()?
-Q. Explain static variables?
-Q. What are PHP magic constants?
-Q. Why do we need trim() function?
-Q. Can you count the number of words in a string?
-Q. How to reverse a string?
-Q. How to find the position of a specific text in a string?
-Q. How can you change cases in a string?
-Q. Can you replace a substring?
-Q. Differentiate between str_replace() and str_ireplace()?
-Q. Differentiate between printf() and print()?
-Q. Differentiate between strstr() & strchr() functions?
-Q. Differentiate between strstr() and stristr()?
-Q. Can you encode a string in PHP?
-Q. Differentiate between strcmp() and strncmp()?
-Q. Is it possible to remove the HTML tags from data?
-Q. What is the use of gettype() in PHP?
-Q. What is heredoc and nowdoc?
-Q. Explain if-else statement?
-Q. Explain switch statement with example?
-Q. Differentiate between switch and if-else statement?
-Q. What are the different types of operators?
-Q. Explain arithmetic operators?
-Q. Explain the assignment operators?
-Q. Explain the logical operators?
-Q. Explain the unary operators?
-Q. Explain the comparison operators?
-Q. Differentiate between === and == operators in PHP?
-Q. Explain pre and post increment with example?
-Q. What do you mean by operator overloading?
-Q. How many loops are available in PHP?
-Q. Explain while loop with example?
-Q. Explain do-while loop with example?
+|249| If i know what is ACID?|
+||different raid systems
+||If a parent record was accidentally deleted without removing the child records, what query could you use to determine what records were "orphaned".
+||list Background Processes in oracle Database
+||Regarding Replication, deadlock, installation, upgradation
+||Q. What is PHP?
+||Q. Is PHP case sensitive?
+||Q. Is PHP weakly typed language?
+||Q. How do we install PHP?
+||Q. What is Composer?
+||Q. How to check current PHP version and other information about our system?
+||Q. What is interpreter?
+||Q. Is PHP compiled or interpreted?
+||Q. Explain datatypes in PHP?
+||Q. What are rules for naming a variable?
+||Q. How will you define a constant?
+||Q. What is the purpose of constant() function?
+||Q. What are the differences between constants and variables?
+||Q. What are the different scopes of variables?
+||Q. What is string?
+||Q. What is the difference between single quoted string and double quoted string?
+||Q. How can you convert string into array elements?
+||Q. How can you convert array into strings?
+||Q. How can you concatenate two or more strings?
+||Q. Differentiate between echo and print()?
+||Q. Explain static variables?
+||Q. What are PHP magic constants?
+||Q. Why do we need trim() function?
+||Q. Can you count the number of words in a string?
+||Q. How to reverse a string?
+||Q. How to find the position of a specific text in a string?
+||Q. How can you change cases in a string?
+||Q. Can you replace a substring?
+||Q. Differentiate between str_replace() and str_ireplace()?
+||Q. Differentiate between printf() and print()?
+||Q. Differentiate between strstr() & strchr() functions?
+||Q. Differentiate between strstr() and stristr()?
+||Q. Can you encode a string in PHP?
+||Q. Differentiate between strcmp() and strncmp()?
+||Q. Is it possible to remove the HTML tags from data?
+||Q. What is the use of gettype() in PHP?
+||Q. What is heredoc and nowdoc?
+||Q. Explain if-else statement?
+||Q. Explain switch statement with example?
+||Q. Differentiate between switch and if-else statement?
+||Q. What are the different types of operators?
+||Q. Explain arithmetic operators?
+||Q. Explain the assignment operators?
+||Q. Explain the logical operators?
+||Q. Explain the unary operators?
+||Q. Explain the comparison operators?
+||Q. Differentiate between === and == operators in PHP?
+||Q. Explain pre and post increment with example?
+||Q. What do you mean by operator overloading?
+||Q. How many loops are available in PHP?
+||Q. Explain while loop with example?
+||Q. Explain do-while loop with example?
 Q. Explain for loop with example?
 Q. Explain foreach loop with example?
 Q. How can you implement an infinite loop in PHP?
